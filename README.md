@@ -12,7 +12,7 @@
 | **Private storage** | `https://jetvaults.blob.core.windows.net/eshel-private/` |
 | **Public container** | `eshel` |
 | **Private container** | `eshel-private` |
-| **Activated** | No |
+| **Activated** | Yes |
 
 ## CNAME
 
