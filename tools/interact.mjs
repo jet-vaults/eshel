@@ -1,0 +1,70 @@
+// Interaction smoke test (dev): node tools/interact.mjs <base>
+import { createRequire } from 'node:module';
+const require = createRequire(import.meta.url);
+const { chromium } = require(process.env.PLAYWRIGHT);
+const base = process.argv[2] || 'http://127.0.0.1:8787';
+const results = [];
+const ok = (name, cond, extra = '') => results.push(`${cond ? 'PASS' : 'FAIL'}  ${name}${extra ? '  (' + extra + ')' : ''}`);
+const browser = await chromium.launch();
+const errors = [];
+
+// Mobile: menu, filter, keyboard
+let ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 2 });
+let page = await ctx.newPage();
+page.on('pageerror', (e) => errors.push('pageerror ' + e.message));
+page.on('console', (m) => { if (m.type() === 'error') errors.push('console ' + m.text()); });
+await page.goto(base + '/', { waitUntil: 'networkidle' });
+await page.click('.nav-toggle');
+ok('mobile menu opens', await page.isVisible('#mnav'));
+await page.keyboard.press('Escape');
+ok('mobile menu closes on Escape', !(await page.isVisible('#mnav')));
+await page.goto(base + '/projects/', { waitUntil: 'networkidle' });
+await page.click('button[data-value="planning"]');
+const visible = await page.$$eval('.grid [data-status]', (els) => els.filter((e) => !e.hidden).map((e) => e.dataset.status));
+ok('filter: planning only', visible.length > 0 && visible.every((s) => s === 'planning'), `${visible.length} shown`);
+ok('filter: URL updated', page.url().includes('status=planning'));
+await page.goto(base + '/projects/?status=occupied', { waitUntil: 'networkidle' });
+const occ = await page.$$eval('.grid [data-status]', (els) => els.filter((e) => !e.hidden).map((e) => e.dataset.status));
+ok('filter: deep link ?status=occupied', occ.length > 0 && occ.every((s) => s === 'occupied'), `${occ.length} shown`);
+await ctx.close();
+
+// Desktop: lightbox, video, map, forms, a11y widget, cookie
+ctx = await browser.newContext({ viewport: { width: 1440, height: 900 } });
+page = await ctx.newPage();
+page.on('pageerror', (e) => errors.push('pageerror ' + e.message));
+await page.goto(base + '/projects/kava/', { waitUntil: 'networkidle' });
+await page.click('[data-gallery] a >> nth=0');
+ok('lightbox opens', await page.evaluate(() => document.getElementById('lightbox').open));
+const src1 = await page.getAttribute('#lightbox img', 'src');
+await page.keyboard.press('ArrowLeft');
+const src2 = await page.getAttribute('#lightbox img', 'src');
+ok('lightbox keyboard navigation', src1 !== src2);
+await page.keyboard.press('Escape');
+ok('lightbox closes on Escape', !(await page.evaluate(() => document.getElementById('lightbox').open)));
+ok('no iframes before interaction', (await page.$$('iframe')).length === 0);
+await page.click('.embed button[data-embed*="youtube"]');
+ok('video loads on click', (await page.$$('iframe[src*="youtube-nocookie"]')).length === 1);
+await page.click('.embed--map button');
+ok('map loads on click', (await page.$$('iframe[src*="maps.google"]')).length === 1);
+await page.click('#p-form [type=submit]');
+ok('form: required fields block submit', (await page.textContent('#p-form .form-status')).trim() === '');
+await page.fill('#p-form-name', 'בדיקה');
+await page.fill('#p-form-phone', '050-0000000');
+await page.click('#p-form [type=submit]');
+const st = (await page.textContent('#p-form .form-status')).trim();
+ok('form: offline message after valid submit', st.length > 10, st.slice(0, 40));
+await page.click('#jv-a11y-toggle');
+await page.click('[data-a11y="contrast"]');
+ok('a11y widget applies a mode', await page.evaluate(() => document.documentElement.classList.contains('a11y-contrast')));
+await page.click('[data-a11y="reset"]');
+ok('a11y widget resets', !(await page.evaluate(() => document.documentElement.className.includes('a11y-'))));
+await page.click('#cookie button');
+await page.reload({ waitUntil: 'networkidle' });
+ok('cookie notice remembered', await page.isHidden('#cookie'));
+// keyboard: first Tab reaches skip link
+await page.keyboard.press('Tab');
+ok('first Tab focuses skip link', await page.evaluate(() => document.activeElement.classList.contains('skip')));
+await ctx.close();
+await browser.close();
+console.log(results.join('\n'));
+console.log(errors.length ? 'JS errors:\n' + errors.join('\n') : 'no JS errors');

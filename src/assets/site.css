@@ -27,6 +27,7 @@
 [lang=he]{--font:'Plex Hebrew','Plex Sans','Plex Fallback',Arial,sans-serif}
 
 *,*::before,*::after{box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-padding-top:calc(var(--hdr) + 16px)}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 var(--fs-0)/1.7 var(--font);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 img,svg,video{display:block;max-width:100%;height:auto}

@@ -35,16 +35,16 @@
   /* Reveal on enter. Content is visible by default; .js-reveal is only added when motion is allowed. */
   var rev = d.querySelectorAll('[data-reveal]');
   if (!reduce && rev.length && 'IntersectionObserver' in window) {
-    root.classList.add('js-reveal');
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) {
         if (en.isIntersecting) { en.target.classList.add('is-in'); io.unobserve(en.target); }
       });
     }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+    // Anything already on screen is marked visible *before* reveal mode starts, so it never blinks.
     rev.forEach(function (el) {
-      var r = el.getBoundingClientRect();
-      if (r.top < window.innerHeight) el.classList.add('is-in'); else io.observe(el);
+      if (el.getBoundingClientRect().top < window.innerHeight) el.classList.add('is-in'); else io.observe(el);
     });
+    root.classList.add('js-reveal');
   }
 
   /* Project filter */
