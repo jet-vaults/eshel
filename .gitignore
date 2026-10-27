@@ -1,0 +1,7 @@
+_source/
+node_modules/
+.lighthouse/
+# Stale >1920px image variants from an earlier pipeline run (no page references them).
+wwwroot/assets/img/*-2034.*
+wwwroot/assets/img/*-2146.*
+wwwroot/assets/img/*-2400.*

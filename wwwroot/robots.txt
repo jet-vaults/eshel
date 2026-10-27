@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+# Preview build: pages carry noindex until approved for production.
+
+Sitemap: https://eshel.pages.dev/sitemap.xml

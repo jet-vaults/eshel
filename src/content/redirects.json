@@ -1,0 +1,342 @@
+[
+ {
+  "from": "/author/esteryossilevi-co-il/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/author/roybalsamgmail-com/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/category/blog/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/מי-אנחנו/",
+  "to": "/about/"
+ },
+ {
+  "from": "/מאמרים/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/career/",
+  "to": "/careers/"
+ },
+ {
+  "from": "/משפטי/",
+  "to": "/legal/"
+ },
+ {
+  "from": "/מחיר-למשתכן/",
+  "to": "/articles/mechir-lamishtaken/"
+ },
+ {
+  "from": "/כתבו-עלינו/",
+  "to": "/news/"
+ },
+ {
+  "from": "/privacy-policy/",
+  "to": "/privacy/"
+ },
+ {
+  "from": "/פרויקט-אחוזת-יער-בנופית/",
+  "to": "/projects/ahuzat-yaar/"
+ },
+ {
+  "from": "/פרויקט-בית-עמיחי-בעכו/",
+  "to": "/projects/beit-amichai/"
+ },
+ {
+  "from": "/פרויקט-דניה-הירוקה/",
+  "to": "/projects/dania/"
+ },
+ {
+  "from": "/אלעד-סנטר/",
+  "to": "/projects/elad-center/"
+ },
+ {
+  "from": "/שכונת-הפרסה-ברכסים/",
+  "to": "/projects/hapharsa/"
+ },
+ {
+  "from": "/פריוקט-קרית-אתא/",
+  "to": "/projects/kiryat-ata/"
+ },
+ {
+  "from": "/פרויקט-לב-הפסגה/",
+  "to": "/projects/lev-hapisga/"
+ },
+ {
+  "from": "/מער-ברכסים/",
+  "to": "/projects/maar-rechasim/"
+ },
+ {
+  "from": "/פרויקט-מגדלי-הנשיא/",
+  "to": "/projects/migdalei-hanasi/"
+ },
+ {
+  "from": "/מבואות-דרומיים-ב-חיפה/",
+  "to": "/projects/neot-navon/"
+ },
+ {
+  "from": "/פרויקט-נופים/",
+  "to": "/projects/nofim/"
+ },
+ {
+  "from": "/פרויקט-פסגת-מכוש/",
+  "to": "/projects/pisgat-machosh/"
+ },
+ {
+  "from": "/פסגת-שגיא/",
+  "to": "/projects/pisgat-sagi/"
+ },
+ {
+  "from": "/רכסים/",
+  "to": "/projects/rechasim/"
+ },
+ {
+  "from": "/פרויקט-רובע-אלונים-צמודי-קרקע/",
+  "to": "/projects/rova-alonim-villas/"
+ },
+ {
+  "from": "/פרויקט-רובע-אלונים/",
+  "to": "/projects/rova-alonim/"
+ },
+ {
+  "from": "/שכונה-לבנה/",
+  "to": "/projects/shchuna-levana/"
+ },
+ {
+  "from": "/פרויקט-טרסה/",
+  "to": "/projects/terrace/"
+ },
+ {
+  "from": "/פרויקט-the-valley/",
+  "to": "/projects/the-valley/"
+ },
+ {
+  "from": "/סובב-כנרת/",
+  "to": "/projects/kava/"
+ },
+ {
+  "from": "/פרוייקטים-מאוכלסים/פרויקט-unew/",
+  "to": "/projects/unew/"
+ },
+ {
+  "from": "/פרויקטים-בשיווק/",
+  "to": "/projects/?status=marketing"
+ },
+ {
+  "from": "/פרוייקטים-מאוכלסים/",
+  "to": "/projects/?status=occupied"
+ },
+ {
+  "from": "/פרויקטים-בתכנון/",
+  "to": "/projects/?status=planning"
+ },
+ {
+  "from": "/פרויקטי-דיור-מוגן/",
+  "to": "/projects/"
+ },
+ {
+  "from": "/פניות-דיירים/",
+  "to": "/residents/"
+ },
+ {
+  "from": "/tabula-article-fb/",
+  "to": "/"
+ },
+ {
+  "from": "/tabula-article/",
+  "to": "/"
+ },
+ {
+  "from": "/thank-you-tabula-fb/",
+  "to": "/"
+ },
+ {
+  "from": "/thank-you-tabula/",
+  "to": "/"
+ },
+ {
+  "from": "/thank_you_walla/",
+  "to": "/"
+ },
+ {
+  "from": "/thankyou/",
+  "to": "/"
+ },
+ {
+  "from": "/התחדשות-עירונית/",
+  "to": "/urban-renewal/"
+ },
+ {
+  "from": "/כל-היתרונות-במגורים-בצפון/",
+  "to": "/articles/advantages-of-living-in-the-north/"
+ },
+ {
+  "from": "/כל-מה-שרציתם-לדעת-על-תמא-38/",
+  "to": "/articles/all-about-tama-38/"
+ },
+ {
+  "from": "/מה-עדיף-דירה-בבניין-או-בבית-פרטי-על-הקר/",
+  "to": "/articles/apartment-vs-private-house/"
+ },
+ {
+  "from": "/לקנות-דירה-בצפון-ב-2026-למה-יותר-ויותר-משפח/",
+  "to": "/articles/buying-in-the-north-2026/"
+ },
+ {
+  "from": "/מאוורר-תקרה-או-מזגן/",
+  "to": "/articles/ceiling-fan-vs-ac/"
+ },
+ {
+  "from": "/מה-גורם-למשפחות-להתחייב-על-דירה-שעוד-לא/",
+  "to": "/articles/committing-to-unbuilt-apartment/"
+ },
+ {
+  "from": "/כמה-מהשיקולים-לקניית-בית-בצפון/",
+  "to": "/articles/considerations-buying-home-north/"
+ },
+ {
+  "from": "/עמדות-טעינה-לרכבים-חשמליים/",
+  "to": "/articles/construction-innovations-ev-charging/"
+ },
+ {
+  "from": "/מהפכת-התעסוקה-של-אלעד-מגדל-המשרדים-סקי/",
+  "to": "/articles/elad-employment-revolution-skypark/"
+ },
+ {
+  "from": "/יד-ראשונה-או-שנייה-היתרונות-והחסרונות/",
+  "to": "/articles/first-hand-vs-second-hand/"
+ },
+ {
+  "from": "/איך-תכנון-נכון-מייצר-ערך-נדל״ני-לטווח-א/",
+  "to": "/articles/how-proper-planning-creates-value/"
+ },
+ {
+  "from": "/כיצד-למצוא-משקיעים-לנדלן/",
+  "to": "/articles/how-to-find-real-estate-investors/"
+ },
+ {
+  "from": "/כיצד-להתחיל-להשקיע-בנדלן/",
+  "to": "/articles/how-to-start-investing-in-real-estate/"
+ },
+ {
+  "from": "/השקעה-בהשבחת-קרקע-האם-זה-שווה/",
+  "to": "/articles/investing-in-land-appreciation/"
+ },
+ {
+  "from": "/פחות-פקקים-יותר-חיים-המגמה-שמשנה-את-שו/",
+  "to": "/articles/less-traffic-more-life-north/"
+ },
+ {
+  "from": "/חסרונות-ויתרונות-של-בנייה-קלה-האם-כדאי/",
+  "to": "/articles/light-construction-pros-cons/"
+ },
+ {
+  "from": "/מחיר-למשתכן-המושגים-שכל-זוכה-חייב-להכי/",
+  "to": "/articles/mechir-lamishtaken-terms/"
+ },
+ {
+  "from": "/שמאי-משכנתא/",
+  "to": "/articles/mortgage-appraiser-vs-private/"
+ },
+ {
+  "from": "/עוברים-לדירה-חדשה-צק-ליסט-למעבר-דירה/",
+  "to": "/articles/moving-checklist/"
+ },
+ {
+  "from": "/דירות-חדשות-ברכסים-למה-עכשיו-הזמן-לקנו/",
+  "to": "/articles/new-apartments-rechasim-why-now/"
+ },
+ {
+  "from": "/מה-שרציתם-לדעת-על-פרויקטים-חדשים-בחיפה/",
+  "to": "/articles/new-projects-in-haifa/"
+ },
+ {
+  "from": "/מתלבטים-בין-דירה-חדשה-ליד-שנייה-כך-תדעו/",
+  "to": "/articles/new-vs-second-hand-apartment/"
+ },
+ {
+  "from": "/מחפשים-1000-מר-ומעלה-למשרדים-העיר-אלעד-זו-2/",
+  "to": "/articles/offices-1000-sqm-elad/"
+ },
+ {
+  "from": "/מחפשים-1000-מר-ומעלה-למשרדים-העיר-אלעד-זו/",
+  "to": "/articles/offices-1000-sqm-elad/"
+ },
+ {
+  "from": "/הזדמנות-ליזמים-באלעד-פרויקט-סקיי-פאר/",
+  "to": "/articles/opportunity-for-entrepreneurs-elad-skypark/"
+ },
+ {
+  "from": "/תכנון-מגורים-לציבור-החרדי-עקרונות-תכנ/",
+  "to": "/articles/planning-housing-for-haredi-public/"
+ },
+ {
+  "from": "/השקעות-נדלן-בישראל/",
+  "to": "/articles/real-estate-investments-israel/"
+ },
+ {
+  "from": "/skypark-elad/",
+  "to": "/articles/skypark-elad/"
+ },
+ {
+  "from": "/אישור-תבע-בישראל/",
+  "to": "/articles/taba-approval-in-israel/"
+ },
+ {
+  "from": "/דירה-מקבלן/",
+  "to": "/articles/tips-buying-from-contractor/"
+ },
+ {
+  "from": "/פרויקט-התחדשות-עירונית-מה-זה-אומר/",
+  "to": "/articles/urban-renewal-project-what-does-it-mean/"
+ },
+ {
+  "from": "/התחדשות-עירונית-מה-זה/",
+  "to": "/articles/urban-renewal-what-is-it/"
+ },
+ {
+  "from": "/מה-באמת-משפיע-על-יציבות-מחירי-דירות-בפר/",
+  "to": "/articles/what-affects-price-stability/"
+ },
+ {
+  "from": "/מה-באמת-מגדיר-פרויקט-מגורים-פרימיום-מע/",
+  "to": "/articles/what-defines-premium-residential/"
+ },
+ {
+  "from": "/מה-משפחות-באמת-בודקות-היום-לפני-קניית-ד/",
+  "to": "/articles/what-families-check-before-buying/"
+ },
+ {
+  "from": "/מה-זה-מפרט-טכני-בדירה-חדשה-ואיך-יודעים-מ/",
+  "to": "/articles/what-is-technical-spec/"
+ },
+ {
+  "from": "/אילו-דברים-חשוב-לבדוק-לפני-שקונים-דירה/",
+  "to": "/articles/what-to-check-before-buying-apartment/"
+ },
+ {
+  "from": "/למה-יותר-ויותר-משפחות-מחפשות-היום-שכונ/",
+  "to": "/articles/why-families-seek-new-neighborhoods/"
+ },
+ {
+  "from": "/feed/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/category/blog/feed/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/comments/feed/",
+  "to": "/articles/"
+ },
+ {
+  "from": "/פרויקטים-בשיווק/פרויקט-unew/",
+  "to": "/projects/unew/"
+ }
+]

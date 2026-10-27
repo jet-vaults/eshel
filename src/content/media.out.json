@@ -1,0 +1,2331 @@
+{
+ "neot-navon-0": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110065618731100",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/1-scaled.png\"}"
+  ]
+ },
+ "neot-navon-1": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110066756326400",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/2-scaled.png\"}"
+  ]
+ },
+ "neot-navon-2": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110067026249600",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/3-scaled.png\"}"
+  ]
+ },
+ "neot-navon-3": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110067372245300",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/4-scaled.png\"}"
+  ]
+ },
+ "neot-navon-4": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110067688681300",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/6-scaled.png\"}"
+  ]
+ },
+ "neot-navon-5": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110068043967900",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/8-scaled.png\"}"
+  ]
+ },
+ "neot-navon-6": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110068834336200",
+   "{\"src\": \"_source/images/project-neot-navon-haifa/7-scaled.png\"}"
+  ]
+ },
+ "kava-0": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110086278628700",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/C17_day-1.jpg\"}"
+  ]
+ },
+ "kava-1": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110085615911700",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/C2_sunset-1.jpg\"}"
+  ]
+ },
+ "kava-2": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110085329983000",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/Avir_205-1.jpg\"}"
+  ]
+ },
+ "kava-3": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110086536153700",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/C1_evening-1.jpg\"}"
+  ]
+ },
+ "kava-4": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110086779688000",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/C10_evening-1.jpg\"}"
+  ]
+ },
+ "kava-5": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110087035973800",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/C18_day-1.jpg\"}"
+  ]
+ },
+ "kava-6": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110087293879700",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/Avir_106-1.jpg\"}"
+  ]
+ },
+ "kava-7": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110087546941400",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/\\u05ea\\u05de\\u05d5\\u05e0\\u05d4-3.jpg\"}"
+  ]
+ },
+ "kava-8": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110087790364200",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/\\u05ea\\u05de\\u05d5\\u05e0\\u05d4-1.jpg\"}"
+  ]
+ },
+ "kava-9": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110088174600200",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/\\u05ea\\u05de\\u05d5\\u05e0\\u05d4-2.jpg\"}"
+  ]
+ },
+ "kava-10": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110086013098900",
+   "{\"src\": \"_source/images/project-tiberias-mul-arbel/Avir_117-1.jpg\"}"
+  ]
+ },
+ "elad-center-0": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110054436715200",
+   "{\"src\": \"_source/images/project-elad-center/\\u05e4\\u05e8\\u05d5\\u05d9\\u05d9\\u05e7\\u05d8-\\u05d0\\u05dc\\u05e2\\u05d3-\\u05d0\\u05e9\\u05dc-\\u05d4\\u05d9\\u05e8\\u05d3\\u05df7-scaled.png\"}"
+  ]
+ },
+ "elad-center-1": {
+  "w": 2560,
+  "h": 1918,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110053838078700",
+   "{\"src\": \"_source/images/project-elad-center/\\u05e4\\u05e8\\u05d5\\u05d9\\u05d9\\u05e7\\u05d8-\\u05d0\\u05dc\\u05e2\\u05d3-\\u05d0\\u05e9\\u05dc-\\u05d4\\u05d9\\u05e8\\u05d3\\u05df-scaled.png\"}"
+  ]
+ },
+ "elad-center-2": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110054151188100",
+   "{\"src\": \"_source/images/project-elad-center/\\u05e4\\u05e8\\u05d5\\u05d9\\u05d9\\u05e7\\u05d8-\\u05d0\\u05dc\\u05e2\\u05d3-\\u05d0\\u05e9\\u05dc-\\u05d4\\u05d9\\u05e8\\u05d3\\u05df2-scaled.png\"}"
+  ]
+ },
+ "elad-center-3": {
+  "w": 9000,
+  "h": 3000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110055342670000",
+   "{\"src\": \"_source/images/project-elad-center/\\u05e4\\u05e8\\u05d5\\u05d9\\u05d9\\u05e7\\u05d8-\\u05d0\\u05dc\\u05e2\\u05d3-\\u05d0\\u05e9\\u05dc-\\u05d4\\u05d9\\u05e8\\u05d3\\u05df8.png\"}"
+  ]
+ },
+ "ahuzat-yaar-0": {
+  "w": 1800,
+  "h": 1110,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110046567202400",
+   "{\"src\": \"_source/images/project-ahuzat-yaar-nofit/C6-High.jpg\"}"
+  ]
+ },
+ "ahuzat-yaar-1": {
+  "w": 1800,
+  "h": 1266,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110046851813100",
+   "{\"src\": \"_source/images/project-ahuzat-yaar-nofit/C5-High.jpg\"}"
+  ]
+ },
+ "ahuzat-yaar-2": {
+  "w": 1800,
+  "h": 740,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110046013918700",
+   "{\"src\": \"_source/images/project-ahuzat-yaar-nofit/C_Night-High.jpg\"}"
+  ]
+ },
+ "ahuzat-yaar-3": {
+  "w": 1800,
+  "h": 953,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110047121836600",
+   "{\"src\": \"_source/images/project-ahuzat-yaar-nofit/C3-High-e1715237819339.jpg\"}"
+  ]
+ },
+ "ahuzat-yaar-4": {
+  "w": 1800,
+  "h": 1490,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110047391341500",
+   "{\"src\": \"_source/images/project-ahuzat-yaar-nofit/C2-High.jpg\"}"
+  ]
+ },
+ "hapharsa-0": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110056530383200",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.39.46.jpeg\"}"
+  ]
+ },
+ "hapharsa-1": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110058784806000",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-15.14.09.jpeg\"}"
+  ]
+ },
+ "hapharsa-2": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110058509246300",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-15.14.09-1.jpeg\"}"
+  ]
+ },
+ "hapharsa-3": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110057221246800",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.33.jpeg\"}"
+  ]
+ },
+ "hapharsa-4": {
+  "w": 1600,
+  "h": 1198,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110057623781600",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.58.jpeg\"}"
+  ]
+ },
+ "hapharsa-5": {
+  "w": 1600,
+  "h": 533,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110056815631800",
+   "{\"src\": \"_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.32.jpeg\"}"
+  ]
+ },
+ "rova-alonim-0": {
+  "w": 2560,
+  "h": 1706,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110080174109300",
+   "{\"src\": \"_source/images/project-rova-alonim/05-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-1": {
+  "w": 2560,
+  "h": 1705,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110079656942300",
+   "{\"src\": \"_source/images/project-rova-alonim/DJI_0081-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-2": {
+  "w": 2560,
+  "h": 1706,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110079125720300",
+   "{\"src\": \"_source/images/project-rova-alonim/06-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-3": {
+  "w": 2560,
+  "h": 1706,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110079386632700",
+   "{\"src\": \"_source/images/project-rova-alonim/08-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-0": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110075730798000",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/10l-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-1": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110074901839700",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/9-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-2": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110076003249200",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/10-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-3": {
+  "w": 2560,
+  "h": 1408,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110076323175500",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/11-scaled-e1715153607794.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-4": {
+  "w": 2560,
+  "h": 1416,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110076578943200",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/11l-scaled-e1715153575249.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-5": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110076907588900",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/1-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-6": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110077248071100",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/2-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-7": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110077543179000",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/3-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-8": {
+  "w": 2560,
+  "h": 1920,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110077802573000",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/6-scaled.jpg\"}"
+  ]
+ },
+ "rova-alonim-villas-9": {
+  "w": 2560,
+  "h": 1706,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110075403378200",
+   "{\"src\": \"_source/images/project-rova-alonim-tzmudei-karka/06-scaled.jpg\"}"
+  ]
+ },
+ "nofim-0": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110070647590600",
+   "{\"src\": \"_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.45.jpeg\"}"
+  ]
+ },
+ "nofim-1": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110069979069700",
+   "{\"src\": \"_source/images/project-nofim/\\u05de\\u05e8\\u05e4\\u05e1\\u05ea-\\u05e4\\u05e0\\u05d8\\u05d4\\u05d0\\u05d5\\u05d6-\\u05de\\u05e2\\u05dc\\u05d5\\u05ea-\\u05e0\\u05d5\\u05e4\\u05d9\\u05dd-scaled.jpg\"}"
+  ]
+ },
+ "nofim-2": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110071042159900",
+   "{\"src\": \"_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.44.jpeg\"}"
+  ]
+ },
+ "nofim-3": {
+  "w": 1359,
+  "h": 601,
+  "widths": [
+   480,
+   768,
+   1080,
+   1359
+  ],
+  "alpha": false,
+  "key": [
+   "1793110070370839400",
+   "{\"src\": \"_source/images/project-nofim/Artboard-1-1.jpg\"}"
+  ]
+ },
+ "nofim-4": {
+  "w": 1600,
+  "h": 1066,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793110071284677800",
+   "{\"src\": \"_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.45-1.jpeg\"}"
+  ]
+ },
+ "beit-amichai-0": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110050020630400",
+   "{\"src\": \"_source/images/project-beit-amichai-akko/3-3.jpg\"}"
+  ]
+ },
+ "beit-amichai-1": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110049530204000",
+   "{\"src\": \"_source/images/project-beit-amichai-akko/2-6.jpg\"}"
+  ]
+ },
+ "beit-amichai-2": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110050288968700",
+   "{\"src\": \"_source/images/project-beit-amichai-akko/4.jpg\"}"
+  ]
+ },
+ "beit-amichai-3": {
+  "w": 1800,
+  "h": 1012,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110050552244400",
+   "{\"src\": \"_source/images/project-beit-amichai-akko/5-1.jpg\"}"
+  ]
+ },
+ "beit-amichai-4": {
+  "w": 1800,
+  "h": 1063,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110050796441800",
+   "{\"src\": \"_source/images/project-beit-amichai-akko/1-1.jpg\"}"
+  ]
+ },
+ "dania-0": {
+  "w": 1410,
+  "h": 510,
+  "widths": [
+   480,
+   768,
+   1080,
+   1410
+  ],
+  "alpha": false,
+  "key": [
+   "1793110052706519100",
+   "{\"src\": \"_source/images/project-dania-hayeruka/12345.jpg\"}"
+  ]
+ },
+ "migdalei-hanasi-0": {
+  "w": 1752,
+  "h": 1095,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1752
+  ],
+  "alpha": false,
+  "key": [
+   "1793110064417922800",
+   "{\"src\": \"_source/images/project-migdalei-hanasi/4-1.jpg\"}"
+  ]
+ },
+ "migdalei-hanasi-1": {
+  "w": 1752,
+  "h": 1095,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1752
+  ],
+  "alpha": false,
+  "key": [
+   "1793110063874327000",
+   "{\"src\": \"_source/images/project-migdalei-hanasi/22.jpg\"}"
+  ]
+ },
+ "migdalei-hanasi-2": {
+  "w": 1752,
+  "h": 1312,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1752
+  ],
+  "alpha": false,
+  "key": [
+   "1793110064687729700",
+   "{\"src\": \"_source/images/project-migdalei-hanasi/11-1.jpg\"}"
+  ]
+ },
+ "migdalei-hanasi-3": {
+  "w": 1200,
+  "h": 1040,
+  "widths": [
+   480,
+   768,
+   1080,
+   1200
+  ],
+  "alpha": false,
+  "key": [
+   "1793110064146335400",
+   "{\"src\": \"_source/images/project-migdalei-hanasi/3-1.jpg\"}"
+  ]
+ },
+ "terrace-0": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110082225723600",
+   "{\"src\": \"_source/images/project-terrace/\\u05d8\\u05e8\\u05e1\\u05d4-\\u05d4\\u05e8-\\u05db\\u05e8\\u05de\\u05d9--scaled.jpg\"}"
+  ]
+ },
+ "terrace-1": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110082995698900",
+   "{\"src\": \"_source/images/project-terrace/\\u05d8\\u05e8\\u05e1\\u05d4-\\u05d4\\u05e8-\\u05db\\u05e8\\u05de\\u05d9-scaled.jpg\"}"
+  ]
+ },
+ "terrace-2": {
+  "w": 1411,
+  "h": 510,
+  "widths": [
+   480,
+   768,
+   1080,
+   1411
+  ],
+  "alpha": false,
+  "key": [
+   "1793110082470388200",
+   "{\"src\": \"_source/images/project-terrace/123.jpg\"}"
+  ]
+ },
+ "terrace-3": {
+  "w": 1410,
+  "h": 510,
+  "widths": [
+   480,
+   768,
+   1080,
+   1410
+  ],
+  "alpha": false,
+  "key": [
+   "1793110082741042000",
+   "{\"src\": \"_source/images/project-terrace/1234.jpg\"}"
+  ]
+ },
+ "the-valley-0": {
+  "w": 2146,
+  "h": 1021,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110084429842300",
+   "{\"src\": \"_source/images/project-the-valley/1111.jpg\"}"
+  ]
+ },
+ "the-valley-1": {
+  "w": 2034,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110084027017000",
+   "{\"src\": \"_source/images/project-the-valley/c1_final-1.jpg\"}"
+  ]
+ },
+ "shchuna-levana-0": {
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110080962480200",
+   "{\"src\": \"_source/images/project-shchuna-levana/carmiel-taza-11-1-1.jpg\"}"
+  ]
+ },
+ "shchuna-levana-1": {
+  "w": 1410,
+  "h": 510,
+  "widths": [
+   480,
+   768,
+   1080,
+   1410
+  ],
+  "alpha": false,
+  "key": [
+   "1793110081219926600",
+   "{\"src\": \"_source/images/project-shchuna-levana/10.jpg\"}"
+  ]
+ },
+ "lev-hapisga-0": {
+  "w": 1410,
+  "h": 510,
+  "widths": [
+   480,
+   768,
+   1080,
+   1410
+  ],
+  "alpha": false,
+  "key": [
+   "1793110060629173900",
+   "{\"src\": \"_source/images/project-lev-hapisga/3.jpg\"}"
+  ]
+ },
+ "lev-hapisga-1": {
+  "w": 1726,
+  "h": 1080,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1726
+  ],
+  "alpha": false,
+  "key": [
+   "1793110060916240400",
+   "{\"src\": \"_source/images/project-lev-hapisga/S1920x1080_PENTHOUSE_MIRPESET_1.jpg\"}"
+  ]
+ },
+ "lev-hapisga-2": {
+  "w": 1728,
+  "h": 1080,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1728
+  ],
+  "alpha": false,
+  "key": [
+   "1793110061150073200",
+   "{\"src\": \"_source/images/project-lev-hapisga/S1920x1080_DIRAT_GAN_SALON.jpg\"}"
+  ]
+ },
+ "unew-0": {
+  "w": 1500,
+  "h": 682,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110088909255500",
+   "{\"src\": \"_source/images/project-unew/1.jpg\"}"
+  ]
+ },
+ "unew-1": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110089445549300",
+   "{\"src\": \"_source/images/project-unew/3-1-scaled.jpg\"}"
+  ]
+ },
+ "unew-2": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793110089157440200",
+   "{\"src\": \"_source/images/project-unew/2-scaled.jpg\"}"
+  ]
+ },
+ "pisgat-sagi-0": {
+  "w": 1280,
+  "h": 939,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793110072517942800",
+   "{\"src\": \"_source/images/project-pisgat-sagi/\\u05e4\\u05e1\\u05d2\\u05ea-\\u05e9\\u05d2\\u05d9\\u05d0.jpg\"}"
+  ]
+ },
+ "pisgat-machosh-0": {
+  "w": 1280,
+  "h": 943,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793110071788337700",
+   "{\"src\": \"_source/images/project-pisgat-machosh/\\u05e4\\u05e1\\u05d2\\u05ea-\\u05de\\u05db\\u05d5\\u05e9.jpg\"}"
+  ]
+ },
+ "rechasim-0": {
+  "w": 960,
+  "h": 473,
+  "widths": [
+   480,
+   768,
+   960
+  ],
+  "alpha": false,
+  "key": [
+   "1793110114050471600",
+   "{\"src\": \"_source/images/projects-planning/\\u05e8\\u05db\\u05e1\\u05d9\\u05dd-02.jpg\"}"
+  ]
+ },
+ "rechasim-1": {
+  "w": 960,
+  "h": 475,
+  "widths": [
+   480,
+   768,
+   960
+  ],
+  "alpha": false,
+  "key": [
+   "1793110092785009900",
+   "{\"src\": \"_source/images/home/\\u05e8\\u05db\\u05e1\\u05d9\\u05dd-01.jpg\"}"
+  ]
+ },
+ "maar-rechasim-0": {
+  "w": 1800,
+  "h": 1004,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793110114864532000",
+   "{\"src\": \"_source/images/projects-planning/\\u05de\\u05e8\\u05db\\u05d6-\\u05e2\\u05e1\\u05e7\\u05d9\\u05dd-\\u05e8\\u05d0\\u05e9\\u05d9-\\u05e8\\u05db\\u05e1\\u05d9\\u05dd-2.jpg\"}"
+  ]
+ },
+ "ur-yokneam-0": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110101027142600",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-1.jpg\"}"
+  ]
+ },
+ "ur-yokneam-1": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110103507420900",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-2.jpg\"}"
+  ]
+ },
+ "ur-yokneam-2": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110103197313500",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-3.jpg\"}"
+  ]
+ },
+ "ur-yokneam-3": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110102821567800",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-4.jpg\"}"
+  ]
+ },
+ "ur-yokneam-4": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110102469180400",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-5.jpg\"}"
+  ]
+ },
+ "ur-yokneam-5": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110102143780800",
+   "{\"src\": \"_source/images/urban-renewal/diyurmugan-6.jpg\"}"
+  ]
+ },
+ "ur-migdal-0": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110103768137100",
+   "{\"src\": \"_source/images/urban-renewal/migdal-1.jpg\"}"
+  ]
+ },
+ "ur-migdal-1": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110105529240000",
+   "{\"src\": \"_source/images/urban-renewal/migdal-2.jpg\"}"
+  ]
+ },
+ "ur-migdal-2": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110105274772400",
+   "{\"src\": \"_source/images/urban-renewal/migdal-3.jpg\"}"
+  ]
+ },
+ "ur-migdal-3": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110104979801100",
+   "{\"src\": \"_source/images/urban-renewal/migdal-4.jpg\"}"
+  ]
+ },
+ "ur-migdal-4": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110104716306700",
+   "{\"src\": \"_source/images/urban-renewal/migdal-5.jpg\"}"
+  ]
+ },
+ "ur-migdal-5": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110104421710100",
+   "{\"src\": \"_source/images/urban-renewal/migdal-6.jpg\"}"
+  ]
+ },
+ "ur-haifa-0": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110105858188700",
+   "{\"src\": \"_source/images/urban-renewal/haifa-1.jpg\"}"
+  ]
+ },
+ "ur-haifa-1": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110108133870100",
+   "{\"src\": \"_source/images/urban-renewal/haifa-2.jpg\"}"
+  ]
+ },
+ "ur-haifa-2": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110107782262000",
+   "{\"src\": \"_source/images/urban-renewal/haifa-3.jpg\"}"
+  ]
+ },
+ "ur-haifa-3": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110107520205500",
+   "{\"src\": \"_source/images/urban-renewal/haifa-4.jpg\"}"
+  ]
+ },
+ "ur-haifa-4": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110107232902700",
+   "{\"src\": \"_source/images/urban-renewal/haifa-5.jpg\"}"
+  ]
+ },
+ "ur-haifa-5": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793110106968751800",
+   "{\"src\": \"_source/images/urban-renewal/haifa-6.jpg\"}"
+  ]
+ },
+ "partner-mohs": {
+  "w": 254,
+  "h": 145,
+  "widths": [
+   254
+  ],
+  "alpha": false,
+  "key": [
+   "1793110093010306600",
+   "{\"src\": \"_source/images/home/Untitled-4-01.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-fibi": {
+  "w": 263,
+  "h": 50,
+  "widths": [
+   263
+  ],
+  "alpha": false,
+  "key": [
+   "1793110093265641200",
+   "{\"src\": \"_source/images/home/Untitled-4-02-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-discount": {
+  "w": 280,
+  "h": 104,
+  "widths": [
+   280
+  ],
+  "alpha": false,
+  "key": [
+   "1793110093501119900",
+   "{\"src\": \"_source/images/home/Untitled-4-03-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-horowitz": {
+  "w": 293,
+  "h": 84,
+  "widths": [
+   293
+  ],
+  "alpha": false,
+  "key": [
+   "1793110093822543400",
+   "{\"src\": \"_source/images/home/Untitled-4-04-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-jerusalem": {
+  "w": 256,
+  "h": 151,
+  "widths": [
+   256
+  ],
+  "alpha": false,
+  "key": [
+   "1793110094064780400",
+   "{\"src\": \"_source/images/home/Untitled-4-05-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-hapoalim": {
+  "w": 284,
+  "h": 58,
+  "widths": [
+   284
+  ],
+  "alpha": false,
+  "key": [
+   "1793110094318576900",
+   "{\"src\": \"_source/images/home/Untitled-4-08-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-geshem": {
+  "w": 255,
+  "h": 120,
+  "widths": [
+   255
+  ],
+  "alpha": false,
+  "key": [
+   "1793110094670362400",
+   "{\"src\": \"_source/images/home/Untitled-4-09-2.jpg\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-megid": {
+  "w": 812,
+  "h": 383,
+  "widths": [
+   320
+  ],
+  "alpha": false,
+  "key": [
+   "1793110095262424400",
+   "{\"src\": \"_source/images/home/partners-1.png\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-ravitz": {
+  "w": 812,
+  "h": 907,
+  "widths": [
+   320
+  ],
+  "alpha": false,
+  "key": [
+   "1793110095581481100",
+   "{\"src\": \"_source/images/home/partners-2.png\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-yedidut": {
+  "w": 811,
+  "h": 310,
+  "widths": [
+   320
+  ],
+  "alpha": false,
+  "key": [
+   "1793110095830797800",
+   "{\"src\": \"_source/images/home/partners-3.png\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "partner-leumi": {
+  "w": 812,
+  "h": 241,
+  "widths": [
+   320
+  ],
+  "alpha": false,
+  "key": [
+   "1793110096146315100",
+   "{\"src\": \"_source/images/home/partners-4.png\", \"trim\": true, \"widths\": [320]}"
+  ]
+ },
+ "article-offices-1000-sqm-elad": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377095614200",
+   "{\"src\": \"_source/images/articles/offices-1000-sqm-elad.png\"}"
+  ]
+ },
+ "article-what-is-technical-spec": {
+  "w": 1500,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377304353200",
+   "{\"src\": \"_source/images/articles/what-is-technical-spec.jpg\"}"
+  ]
+ },
+ "article-new-vs-second-hand-apartment": {
+  "w": 1500,
+  "h": 844,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1500
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377304353200",
+   "{\"src\": \"_source/images/articles/new-vs-second-hand-apartment.jpg\"}"
+  ]
+ },
+ "article-opportunity-for-entrepreneurs-elad-skypark": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377309879300",
+   "{\"src\": \"_source/images/articles/opportunity-for-entrepreneurs-elad-skypark.png\"}"
+  ]
+ },
+ "article-elad-employment-revolution-skypark": {
+  "w": 2560,
+  "h": 1918,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377312757300",
+   "{\"src\": \"_source/images/articles/elad-employment-revolution-skypark.png\"}"
+  ]
+ },
+ "article-skypark-elad": {
+  "w": 2560,
+  "h": 1918,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377312757300",
+   "{\"src\": \"_source/images/articles/skypark-elad.png\"}"
+  ]
+ },
+ "article-less-traffic-more-life-north": {
+  "w": 1200,
+  "h": 675,
+  "widths": [
+   480,
+   768,
+   1080,
+   1200
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377312757300",
+   "{\"src\": \"_source/images/articles/less-traffic-more-life-north.jpg\"}"
+  ]
+ },
+ "article-committing-to-unbuilt-apartment": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377312757300",
+   "{\"src\": \"_source/images/articles/committing-to-unbuilt-apartment.png\"}"
+  ]
+ },
+ "article-why-families-seek-new-neighborhoods": {
+  "w": 2560,
+  "h": 1440,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1920
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377760832200",
+   "{\"src\": \"_source/images/articles/why-families-seek-new-neighborhoods.png\"}"
+  ]
+ },
+ "article-what-families-check-before-buying": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377549194600",
+   "{\"src\": \"_source/images/articles/what-families-check-before-buying.jpg\"}"
+  ]
+ },
+ "article-new-apartments-rechasim-why-now": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377766976800",
+   "{\"src\": \"_source/images/articles/new-apartments-rechasim-why-now.jpg\"}"
+  ]
+ },
+ "article-buying-in-the-north-2026": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793111377760832200",
+   "{\"src\": \"_source/images/articles/buying-in-the-north-2026.jpg\"}"
+  ]
+ },
+ "article-what-affects-price-stability": {
+  "w": 1800,
+  "h": 1000,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1800
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378035204700",
+   "{\"src\": \"_source/images/articles/what-affects-price-stability.jpg\"}"
+  ]
+ },
+ "article-how-proper-planning-creates-value": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378239924100",
+   "{\"src\": \"_source/images/articles/how-proper-planning-creates-value.jpg\"}"
+  ]
+ },
+ "article-what-defines-premium-residential": {
+  "w": 1054,
+  "h": 767,
+  "widths": [
+   480,
+   768,
+   1054
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378242604900",
+   "{\"src\": \"_source/images/articles/what-defines-premium-residential.jpg\"}"
+  ]
+ },
+ "article-planning-housing-for-haredi-public": {
+  "w": 1600,
+  "h": 900,
+  "widths": [
+   480,
+   768,
+   1080,
+   1440,
+   1600
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378241921900",
+   "{\"src\": \"_source/images/articles/planning-housing-for-haredi-public.jpg\"}"
+  ]
+ },
+ "article-tips-buying-from-contractor": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378441523100",
+   "{\"src\": \"_source/images/articles/tips-buying-from-contractor.jpg\"}"
+  ]
+ },
+ "article-light-construction-pros-cons": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111378853349800",
+   "{\"src\": \"_source/images/articles/light-construction-pros-cons.jpg\"}"
+  ]
+ },
+ "article-construction-innovations-ev-charging": {
+  "w": 1198,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1080,
+   1198
+  ],
+  "alpha": false,
+  "key": [
+   "1793111379311738900",
+   "{\"src\": \"_source/images/articles/construction-innovations-ev-charging.jpg\"}"
+  ]
+ },
+ "article-ceiling-fan-vs-ac": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111379677746600",
+   "{\"src\": \"_source/images/articles/ceiling-fan-vs-ac.jpg\"}"
+  ]
+ },
+ "article-moving-checklist": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111380054955900",
+   "{\"src\": \"_source/images/articles/moving-checklist.jpg\"}"
+  ]
+ },
+ "article-mortgage-appraiser-vs-private": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111380469171400",
+   "{\"src\": \"_source/images/articles/mortgage-appraiser-vs-private.jpg\"}"
+  ]
+ },
+ "article-urban-renewal-what-is-it": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111380917718800",
+   "{\"src\": \"_source/images/articles/urban-renewal-what-is-it.jpg\"}"
+  ]
+ },
+ "article-real-estate-investments-israel": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111381294287900",
+   "{\"src\": \"_source/images/articles/real-estate-investments-israel.jpg\"}"
+  ]
+ },
+ "article-first-hand-vs-second-hand": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111381726484700",
+   "{\"src\": \"_source/images/articles/first-hand-vs-second-hand.jpg\"}"
+  ]
+ },
+ "article-considerations-buying-home-north": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111382154155300",
+   "{\"src\": \"_source/images/articles/considerations-buying-home-north.jpg\"}"
+  ]
+ },
+ "article-advantages-of-living-in-the-north": {
+  "w": 1000,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111382589617500",
+   "{\"src\": \"_source/images/articles/advantages-of-living-in-the-north.jpg\"}"
+  ]
+ },
+ "article-what-to-check-before-buying-apartment": {
+  "w": 800,
+  "h": 533,
+  "widths": [
+   480,
+   768,
+   800
+  ],
+  "alpha": false,
+  "key": [
+   "1793111383012911900",
+   "{\"src\": \"_source/images/articles/what-to-check-before-buying-apartment.jpg\"}"
+  ]
+ },
+ "article-how-to-find-real-estate-investors": {
+  "w": 800,
+  "h": 533,
+  "widths": [
+   480,
+   768,
+   800
+  ],
+  "alpha": false,
+  "key": [
+   "1793111383846547400",
+   "{\"src\": \"_source/images/articles/how-to-find-real-estate-investors.jpg\"}"
+  ]
+ },
+ "article-all-about-tama-38": {
+  "w": 800,
+  "h": 533,
+  "widths": [
+   480,
+   768,
+   800
+  ],
+  "alpha": false,
+  "key": [
+   "1793111383422268100",
+   "{\"src\": \"_source/images/articles/all-about-tama-38.jpg\"}"
+  ]
+ },
+ "article-mechir-lamishtaken-terms": {
+  "w": 1000,
+  "h": 664,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111384242002600",
+   "{\"src\": \"_source/images/articles/mechir-lamishtaken-terms.jpg\"}"
+  ]
+ },
+ "article-taba-approval-in-israel": {
+  "w": 1000,
+  "h": 562,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111384635616800",
+   "{\"src\": \"_source/images/articles/taba-approval-in-israel.jpg\"}"
+  ]
+ },
+ "article-how-to-start-investing-in-real-estate": {
+  "w": 1000,
+  "h": 750,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111385486557700",
+   "{\"src\": \"_source/images/articles/how-to-start-investing-in-real-estate.jpg\"}"
+  ]
+ },
+ "article-apartment-vs-private-house": {
+  "w": 1000,
+  "h": 1500,
+  "widths": [
+   480,
+   768,
+   1000
+  ],
+  "alpha": false,
+  "key": [
+   "1793111385082844700",
+   "{\"src\": \"_source/images/articles/apartment-vs-private-house.jpg\"}"
+  ]
+ },
+ "article-investing-in-land-appreciation": {
+  "w": 1200,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1080,
+   1200
+  ],
+  "alpha": false,
+  "key": [
+   "1793111385887887700",
+   "{\"src\": \"_source/images/articles/investing-in-land-appreciation.jpg\"}"
+  ]
+ },
+ "article-urban-renewal-project-what-does-it-mean": {
+  "w": 1200,
+  "h": 800,
+  "widths": [
+   480,
+   768,
+   1080,
+   1200
+  ],
+  "alpha": false,
+  "key": [
+   "1793111386312713600",
+   "{\"src\": \"_source/images/articles/urban-renewal-project-what-does-it-mean.jpg\"}"
+  ]
+ },
+ "article-new-projects-in-haifa": {
+  "w": 1200,
+  "h": 901,
+  "widths": [
+   480,
+   768,
+   1080,
+   1200
+  ],
+  "alpha": false,
+  "key": [
+   "1793111386718320000",
+   "{\"src\": \"_source/images/articles/new-projects-in-haifa.jpg\"}"
+  ]
+ },
+ "video-m1AQRcclKTQ": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793111299490969600",
+   "{\"max\": 1280, \"src\": \"_source/images/video/m1AQRcclKTQ.jpg\"}"
+  ]
+ },
+ "video-xnOE0v4yMls": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793111299844387500",
+   "{\"max\": 1280, \"src\": \"_source/images/video/xnOE0v4yMls.jpg\"}"
+  ]
+ },
+ "video-zsNyacDk96s": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793111300281734700",
+   "{\"max\": 1280, \"src\": \"_source/images/video/zsNyacDk96s.jpg\"}"
+  ]
+ },
+ "video-Rd0FnexBILc": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793111300359873700",
+   "{\"max\": 1280, \"src\": \"_source/images/video/Rd0FnexBILc.jpg\"}"
+  ]
+ },
+ "video-Q-nmLvvfSNg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   480,
+   768,
+   1080,
+   1280
+  ],
+  "alpha": false,
+  "key": [
+   "1793111300709943400",
+   "{\"max\": 1280, \"src\": \"_source/images/video/Q-nmLvvfSNg.jpg\"}"
+  ]
+ }
+}

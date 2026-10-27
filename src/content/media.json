@@ -1,0 +1,507 @@
+{
+ "neot-navon-0": {
+  "src": "_source/images/project-neot-navon-haifa/1-scaled.png"
+ },
+ "neot-navon-1": {
+  "src": "_source/images/project-neot-navon-haifa/2-scaled.png"
+ },
+ "neot-navon-2": {
+  "src": "_source/images/project-neot-navon-haifa/3-scaled.png"
+ },
+ "neot-navon-3": {
+  "src": "_source/images/project-neot-navon-haifa/4-scaled.png"
+ },
+ "neot-navon-4": {
+  "src": "_source/images/project-neot-navon-haifa/6-scaled.png"
+ },
+ "neot-navon-5": {
+  "src": "_source/images/project-neot-navon-haifa/8-scaled.png"
+ },
+ "neot-navon-6": {
+  "src": "_source/images/project-neot-navon-haifa/7-scaled.png"
+ },
+ "kava-0": {
+  "src": "_source/images/project-tiberias-mul-arbel/C17_day-1.jpg"
+ },
+ "kava-1": {
+  "src": "_source/images/project-tiberias-mul-arbel/C2_sunset-1.jpg"
+ },
+ "kava-2": {
+  "src": "_source/images/project-tiberias-mul-arbel/Avir_205-1.jpg"
+ },
+ "kava-3": {
+  "src": "_source/images/project-tiberias-mul-arbel/C1_evening-1.jpg"
+ },
+ "kava-4": {
+  "src": "_source/images/project-tiberias-mul-arbel/C10_evening-1.jpg"
+ },
+ "kava-5": {
+  "src": "_source/images/project-tiberias-mul-arbel/C18_day-1.jpg"
+ },
+ "kava-6": {
+  "src": "_source/images/project-tiberias-mul-arbel/Avir_106-1.jpg"
+ },
+ "kava-7": {
+  "src": "_source/images/project-tiberias-mul-arbel/תמונה-3.jpg"
+ },
+ "kava-8": {
+  "src": "_source/images/project-tiberias-mul-arbel/תמונה-1.jpg"
+ },
+ "kava-9": {
+  "src": "_source/images/project-tiberias-mul-arbel/תמונה-2.jpg"
+ },
+ "kava-10": {
+  "src": "_source/images/project-tiberias-mul-arbel/Avir_117-1.jpg"
+ },
+ "elad-center-0": {
+  "src": "_source/images/project-elad-center/פרוייקט-אלעד-אשל-הירדן7-scaled.png"
+ },
+ "elad-center-1": {
+  "src": "_source/images/project-elad-center/פרוייקט-אלעד-אשל-הירדן-scaled.png"
+ },
+ "elad-center-2": {
+  "src": "_source/images/project-elad-center/פרוייקט-אלעד-אשל-הירדן2-scaled.png"
+ },
+ "elad-center-3": {
+  "src": "_source/images/project-elad-center/פרוייקט-אלעד-אשל-הירדן8.png"
+ },
+ "ahuzat-yaar-0": {
+  "src": "_source/images/project-ahuzat-yaar-nofit/C6-High.jpg"
+ },
+ "ahuzat-yaar-1": {
+  "src": "_source/images/project-ahuzat-yaar-nofit/C5-High.jpg"
+ },
+ "ahuzat-yaar-2": {
+  "src": "_source/images/project-ahuzat-yaar-nofit/C_Night-High.jpg"
+ },
+ "ahuzat-yaar-3": {
+  "src": "_source/images/project-ahuzat-yaar-nofit/C3-High-e1715237819339.jpg"
+ },
+ "ahuzat-yaar-4": {
+  "src": "_source/images/project-ahuzat-yaar-nofit/C2-High.jpg"
+ },
+ "hapharsa-0": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.39.46.jpeg"
+ },
+ "hapharsa-1": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-15.14.09.jpeg"
+ },
+ "hapharsa-2": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-15.14.09-1.jpeg"
+ },
+ "hapharsa-3": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.33.jpeg"
+ },
+ "hapharsa-4": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.58.jpeg"
+ },
+ "hapharsa-5": {
+  "src": "_source/images/project-hapharsa-rechasim/WhatsApp-Image-2025-09-17-at-14.13.32.jpeg"
+ },
+ "rova-alonim-0": {
+  "src": "_source/images/project-rova-alonim/05-scaled.jpg"
+ },
+ "rova-alonim-1": {
+  "src": "_source/images/project-rova-alonim/DJI_0081-scaled.jpg"
+ },
+ "rova-alonim-2": {
+  "src": "_source/images/project-rova-alonim/06-scaled.jpg"
+ },
+ "rova-alonim-3": {
+  "src": "_source/images/project-rova-alonim/08-scaled.jpg"
+ },
+ "rova-alonim-villas-0": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/10l-scaled.jpg"
+ },
+ "rova-alonim-villas-1": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/9-scaled.jpg"
+ },
+ "rova-alonim-villas-2": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/10-scaled.jpg"
+ },
+ "rova-alonim-villas-3": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/11-scaled-e1715153607794.jpg"
+ },
+ "rova-alonim-villas-4": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/11l-scaled-e1715153575249.jpg"
+ },
+ "rova-alonim-villas-5": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/1-scaled.jpg"
+ },
+ "rova-alonim-villas-6": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/2-scaled.jpg"
+ },
+ "rova-alonim-villas-7": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/3-scaled.jpg"
+ },
+ "rova-alonim-villas-8": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/6-scaled.jpg"
+ },
+ "rova-alonim-villas-9": {
+  "src": "_source/images/project-rova-alonim-tzmudei-karka/06-scaled.jpg"
+ },
+ "nofim-0": {
+  "src": "_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.45.jpeg"
+ },
+ "nofim-1": {
+  "src": "_source/images/project-nofim/מרפסת-פנטהאוז-מעלות-נופים-scaled.jpg"
+ },
+ "nofim-2": {
+  "src": "_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.44.jpeg"
+ },
+ "nofim-3": {
+  "src": "_source/images/project-nofim/Artboard-1-1.jpg"
+ },
+ "nofim-4": {
+  "src": "_source/images/project-nofim/WhatsApp-Image-2022-01-13-at-12.32.45-1.jpeg"
+ },
+ "beit-amichai-0": {
+  "src": "_source/images/project-beit-amichai-akko/3-3.jpg"
+ },
+ "beit-amichai-1": {
+  "src": "_source/images/project-beit-amichai-akko/2-6.jpg"
+ },
+ "beit-amichai-2": {
+  "src": "_source/images/project-beit-amichai-akko/4.jpg"
+ },
+ "beit-amichai-3": {
+  "src": "_source/images/project-beit-amichai-akko/5-1.jpg"
+ },
+ "beit-amichai-4": {
+  "src": "_source/images/project-beit-amichai-akko/1-1.jpg"
+ },
+ "dania-0": {
+  "src": "_source/images/project-dania-hayeruka/12345.jpg"
+ },
+ "migdalei-hanasi-0": {
+  "src": "_source/images/project-migdalei-hanasi/4-1.jpg"
+ },
+ "migdalei-hanasi-1": {
+  "src": "_source/images/project-migdalei-hanasi/22.jpg"
+ },
+ "migdalei-hanasi-2": {
+  "src": "_source/images/project-migdalei-hanasi/11-1.jpg"
+ },
+ "migdalei-hanasi-3": {
+  "src": "_source/images/project-migdalei-hanasi/3-1.jpg"
+ },
+ "terrace-0": {
+  "src": "_source/images/project-terrace/טרסה-הר-כרמי--scaled.jpg"
+ },
+ "terrace-1": {
+  "src": "_source/images/project-terrace/טרסה-הר-כרמי-scaled.jpg"
+ },
+ "terrace-2": {
+  "src": "_source/images/project-terrace/123.jpg"
+ },
+ "terrace-3": {
+  "src": "_source/images/project-terrace/1234.jpg"
+ },
+ "the-valley-0": {
+  "src": "_source/images/project-the-valley/1111.jpg"
+ },
+ "the-valley-1": {
+  "src": "_source/images/project-the-valley/c1_final-1.jpg"
+ },
+ "shchuna-levana-0": {
+  "src": "_source/images/project-shchuna-levana/carmiel-taza-11-1-1.jpg"
+ },
+ "shchuna-levana-1": {
+  "src": "_source/images/project-shchuna-levana/10.jpg"
+ },
+ "lev-hapisga-0": {
+  "src": "_source/images/project-lev-hapisga/3.jpg"
+ },
+ "lev-hapisga-1": {
+  "src": "_source/images/project-lev-hapisga/S1920x1080_PENTHOUSE_MIRPESET_1.jpg"
+ },
+ "lev-hapisga-2": {
+  "src": "_source/images/project-lev-hapisga/S1920x1080_DIRAT_GAN_SALON.jpg"
+ },
+ "unew-0": {
+  "src": "_source/images/project-unew/1.jpg"
+ },
+ "unew-1": {
+  "src": "_source/images/project-unew/3-1-scaled.jpg"
+ },
+ "unew-2": {
+  "src": "_source/images/project-unew/2-scaled.jpg"
+ },
+ "pisgat-sagi-0": {
+  "src": "_source/images/project-pisgat-sagi/פסגת-שגיא.jpg"
+ },
+ "pisgat-machosh-0": {
+  "src": "_source/images/project-pisgat-machosh/פסגת-מכוש.jpg"
+ },
+ "rechasim-0": {
+  "src": "_source/images/projects-planning/רכסים-02.jpg"
+ },
+ "rechasim-1": {
+  "src": "_source/images/home/רכסים-01.jpg"
+ },
+ "maar-rechasim-0": {
+  "src": "_source/images/projects-planning/מרכז-עסקים-ראשי-רכסים-2.jpg"
+ },
+ "ur-yokneam-0": {
+  "src": "_source/images/urban-renewal/diyurmugan-1.jpg"
+ },
+ "ur-yokneam-1": {
+  "src": "_source/images/urban-renewal/diyurmugan-2.jpg"
+ },
+ "ur-yokneam-2": {
+  "src": "_source/images/urban-renewal/diyurmugan-3.jpg"
+ },
+ "ur-yokneam-3": {
+  "src": "_source/images/urban-renewal/diyurmugan-4.jpg"
+ },
+ "ur-yokneam-4": {
+  "src": "_source/images/urban-renewal/diyurmugan-5.jpg"
+ },
+ "ur-yokneam-5": {
+  "src": "_source/images/urban-renewal/diyurmugan-6.jpg"
+ },
+ "ur-migdal-0": {
+  "src": "_source/images/urban-renewal/migdal-1.jpg"
+ },
+ "ur-migdal-1": {
+  "src": "_source/images/urban-renewal/migdal-2.jpg"
+ },
+ "ur-migdal-2": {
+  "src": "_source/images/urban-renewal/migdal-3.jpg"
+ },
+ "ur-migdal-3": {
+  "src": "_source/images/urban-renewal/migdal-4.jpg"
+ },
+ "ur-migdal-4": {
+  "src": "_source/images/urban-renewal/migdal-5.jpg"
+ },
+ "ur-migdal-5": {
+  "src": "_source/images/urban-renewal/migdal-6.jpg"
+ },
+ "ur-haifa-0": {
+  "src": "_source/images/urban-renewal/haifa-1.jpg"
+ },
+ "ur-haifa-1": {
+  "src": "_source/images/urban-renewal/haifa-2.jpg"
+ },
+ "ur-haifa-2": {
+  "src": "_source/images/urban-renewal/haifa-3.jpg"
+ },
+ "ur-haifa-3": {
+  "src": "_source/images/urban-renewal/haifa-4.jpg"
+ },
+ "ur-haifa-4": {
+  "src": "_source/images/urban-renewal/haifa-5.jpg"
+ },
+ "ur-haifa-5": {
+  "src": "_source/images/urban-renewal/haifa-6.jpg"
+ },
+ "partner-mohs": {
+  "src": "_source/images/home/Untitled-4-01.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-fibi": {
+  "src": "_source/images/home/Untitled-4-02-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-discount": {
+  "src": "_source/images/home/Untitled-4-03-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-horowitz": {
+  "src": "_source/images/home/Untitled-4-04-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-jerusalem": {
+  "src": "_source/images/home/Untitled-4-05-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-hapoalim": {
+  "src": "_source/images/home/Untitled-4-08-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-geshem": {
+  "src": "_source/images/home/Untitled-4-09-2.jpg",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-megid": {
+  "src": "_source/images/home/partners-1.png",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-ravitz": {
+  "src": "_source/images/home/partners-2.png",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-yedidut": {
+  "src": "_source/images/home/partners-3.png",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "partner-leumi": {
+  "src": "_source/images/home/partners-4.png",
+  "widths": [
+   320
+  ],
+  "trim": true
+ },
+ "article-offices-1000-sqm-elad": {
+  "src": "_source/images/articles/offices-1000-sqm-elad.png"
+ },
+ "article-what-is-technical-spec": {
+  "src": "_source/images/articles/what-is-technical-spec.jpg"
+ },
+ "article-new-vs-second-hand-apartment": {
+  "src": "_source/images/articles/new-vs-second-hand-apartment.jpg"
+ },
+ "article-opportunity-for-entrepreneurs-elad-skypark": {
+  "src": "_source/images/articles/opportunity-for-entrepreneurs-elad-skypark.png"
+ },
+ "article-elad-employment-revolution-skypark": {
+  "src": "_source/images/articles/elad-employment-revolution-skypark.png"
+ },
+ "article-skypark-elad": {
+  "src": "_source/images/articles/skypark-elad.png"
+ },
+ "article-less-traffic-more-life-north": {
+  "src": "_source/images/articles/less-traffic-more-life-north.jpg"
+ },
+ "article-committing-to-unbuilt-apartment": {
+  "src": "_source/images/articles/committing-to-unbuilt-apartment.png"
+ },
+ "article-why-families-seek-new-neighborhoods": {
+  "src": "_source/images/articles/why-families-seek-new-neighborhoods.png"
+ },
+ "article-what-families-check-before-buying": {
+  "src": "_source/images/articles/what-families-check-before-buying.jpg"
+ },
+ "article-new-apartments-rechasim-why-now": {
+  "src": "_source/images/articles/new-apartments-rechasim-why-now.jpg"
+ },
+ "article-buying-in-the-north-2026": {
+  "src": "_source/images/articles/buying-in-the-north-2026.jpg"
+ },
+ "article-what-affects-price-stability": {
+  "src": "_source/images/articles/what-affects-price-stability.jpg"
+ },
+ "article-how-proper-planning-creates-value": {
+  "src": "_source/images/articles/how-proper-planning-creates-value.jpg"
+ },
+ "article-what-defines-premium-residential": {
+  "src": "_source/images/articles/what-defines-premium-residential.jpg"
+ },
+ "article-planning-housing-for-haredi-public": {
+  "src": "_source/images/articles/planning-housing-for-haredi-public.jpg"
+ },
+ "article-tips-buying-from-contractor": {
+  "src": "_source/images/articles/tips-buying-from-contractor.jpg"
+ },
+ "article-light-construction-pros-cons": {
+  "src": "_source/images/articles/light-construction-pros-cons.jpg"
+ },
+ "article-construction-innovations-ev-charging": {
+  "src": "_source/images/articles/construction-innovations-ev-charging.jpg"
+ },
+ "article-ceiling-fan-vs-ac": {
+  "src": "_source/images/articles/ceiling-fan-vs-ac.jpg"
+ },
+ "article-moving-checklist": {
+  "src": "_source/images/articles/moving-checklist.jpg"
+ },
+ "article-mortgage-appraiser-vs-private": {
+  "src": "_source/images/articles/mortgage-appraiser-vs-private.jpg"
+ },
+ "article-urban-renewal-what-is-it": {
+  "src": "_source/images/articles/urban-renewal-what-is-it.jpg"
+ },
+ "article-real-estate-investments-israel": {
+  "src": "_source/images/articles/real-estate-investments-israel.jpg"
+ },
+ "article-first-hand-vs-second-hand": {
+  "src": "_source/images/articles/first-hand-vs-second-hand.jpg"
+ },
+ "article-considerations-buying-home-north": {
+  "src": "_source/images/articles/considerations-buying-home-north.jpg"
+ },
+ "article-advantages-of-living-in-the-north": {
+  "src": "_source/images/articles/advantages-of-living-in-the-north.jpg"
+ },
+ "article-what-to-check-before-buying-apartment": {
+  "src": "_source/images/articles/what-to-check-before-buying-apartment.jpg"
+ },
+ "article-how-to-find-real-estate-investors": {
+  "src": "_source/images/articles/how-to-find-real-estate-investors.jpg"
+ },
+ "article-all-about-tama-38": {
+  "src": "_source/images/articles/all-about-tama-38.jpg"
+ },
+ "article-mechir-lamishtaken-terms": {
+  "src": "_source/images/articles/mechir-lamishtaken-terms.jpg"
+ },
+ "article-taba-approval-in-israel": {
+  "src": "_source/images/articles/taba-approval-in-israel.jpg"
+ },
+ "article-how-to-start-investing-in-real-estate": {
+  "src": "_source/images/articles/how-to-start-investing-in-real-estate.jpg"
+ },
+ "article-apartment-vs-private-house": {
+  "src": "_source/images/articles/apartment-vs-private-house.jpg"
+ },
+ "article-investing-in-land-appreciation": {
+  "src": "_source/images/articles/investing-in-land-appreciation.jpg"
+ },
+ "article-urban-renewal-project-what-does-it-mean": {
+  "src": "_source/images/articles/urban-renewal-project-what-does-it-mean.jpg"
+ },
+ "article-new-projects-in-haifa": {
+  "src": "_source/images/articles/new-projects-in-haifa.jpg"
+ },
+ "video-m1AQRcclKTQ": {
+  "src": "_source/images/video/m1AQRcclKTQ.jpg",
+  "max": 1280
+ },
+ "video-xnOE0v4yMls": {
+  "src": "_source/images/video/xnOE0v4yMls.jpg",
+  "max": 1280
+ },
+ "video-zsNyacDk96s": {
+  "src": "_source/images/video/zsNyacDk96s.jpg",
+  "max": 1280
+ },
+ "video-Rd0FnexBILc": {
+  "src": "_source/images/video/Rd0FnexBILc.jpg",
+  "max": 1280
+ },
+ "video-Q-nmLvvfSNg": {
+  "src": "_source/images/video/Q-nmLvvfSNg.jpg",
+  "max": 1280
+ }
+}
