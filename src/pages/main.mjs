@@ -195,6 +195,8 @@ export function projectsHub(L, { projects }) {
 }
 
 /* ------------------------------------------------------------ PROJECT PAGE */
+// Gallery tile widths mirror the CSS: every 5th tile spans 8/12 on desktop, every 3rd is full width on phones.
+const galSizes = (k) => `(max-width:700px) ${k % 3 === 0 ? '100vw' : '50vw'}, ${k % 5 === 0 ? '62vw' : '31vw'}`;
 export function project(p, L, { projects }) {
   const name = t(p.name, L), city = t(p.city, L);
   const n = p.images || 0;
@@ -217,7 +219,7 @@ export function project(p, L, { projects }) {
 
   const gallery = n > 1
     ? `<section class="sec--tight" aria-labelledby="gal-h"><div class="wrap"><h2 class="h3" id="gal-h" style="margin-bottom:24px">${esc(t(T.gallery, L))}</h2><div class="gal" data-gallery>` +
-      Array.from({ length: n - 1 }, (_, k) => k + 1).map((i) => `<a href="${largest(`${p.slug}-${i}`)}" data-full="${largest(`${p.slug}-${i}`)}">${picture(`${p.slug}-${i}`, { alt: alt(i), sizes: '(max-width:700px) 100vw, 66vw' })}</a>`).join('') +
+      Array.from({ length: n - 1 }, (_, k) => k + 1).map((i) => `<a href="${largest(`${p.slug}-${i}`)}" data-full="${largest(`${p.slug}-${i}`)}">${picture(`${p.slug}-${i}`, { alt: alt(i), sizes: galSizes(i - 1) })}</a>`).join('') +
       `</div></div></section>` : '';
   const vids = p.videos?.length
     ? `<section class="sec--tight"><div class="wrap"><div class="vids">${p.videos.map((v) => video(v, L, name)).join('')}</div></div></section>` : '';

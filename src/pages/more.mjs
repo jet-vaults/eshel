@@ -162,8 +162,8 @@ ${head(L, c.h1, c.lead, c.title)}
   <p class="lead" style="margin-top:40px">${esc(c.more)}<a href="mailto:${SITE.hrEmail}">${SITE.hrEmail}</a></p>
   <p class="small">${esc(c.equal)}</p>
 </div></section>`;
-  const ld = JOBS.map((j) => ({ '@context': 'https://schema.org', '@type': 'JobPosting', title: t(j.title, L), description: t(j.html, L), identifier: j.code, hiringOrganization: { '@type': 'Organization', name: t(SITE.legalName, L), sameAs: SITE.origin }, jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressCountry: 'IL' } }, datePosted: '2026-10-01', employmentType: 'FULL_TIME' }));
-  return { path: '/careers/', title: c.title, desc: c.desc, body, jsonld: ld };
+  // No JobPosting structured data: the old site gives no posting dates, and we don't invent them.
+  return { path: '/careers/', title: c.title, desc: c.desc, body };
 }
 
 /* ------------------------------------------------------------------- NEWS */

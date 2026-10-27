@@ -4,17 +4,29 @@
   "status": "marketing",
   "featured": 1,
   "images": 7,
-  "name": {"he": "נאות נבון", "en": "Neot Navon"},
-  "city": {"he": "חיפה", "en": "Haifa"},
-  "type": {"he": "מגורים ומסחר שכונתי", "en": "Residential and neighbourhood retail"},
+  "name": {
+   "he": "נאות נבון",
+   "en": "Neot Navon"
+  },
+  "city": {
+   "he": "חיפה",
+   "en": "Haifa"
+  },
+  "type": {
+   "he": "מגורים ומסחר שכונתי",
+   "en": "Residential and neighbourhood retail"
+  },
   "summary": {
-   "he": "פרויקט הדגל של החברה בחיפה: 786 יח\"ד על פני ארבעה מגרשים, בנייני בוטיק לצד מגדלים.",
+   "he": "פרויקט הדגל של החברה בחיפה: 786 יח״ד על פני ארבעה מגרשים, בנייני בוטיק לצד מגדלים.",
    "en": "The company's flagship in Haifa: 786 homes across four plots, boutique buildings alongside towers."
   },
-  "lead": {"he": "איכות חיים אל מול הים", "en": "City living, facing the sea"},
+  "lead": {
+   "he": "איכות חיים אל מול הים",
+   "en": "City living, facing the sea"
+  },
   "body": {
    "he": [
-    "באזור המבוקש ביותר בחיפה, אשל הירדן מקימה פרויקט מגורים רחב היקף הכולל 786 יח\"ד ומסחר שכונתי, הפרוסים על פני ארבעה מגרשים, בתמהיל של דירות שוק חופשי ודירות מחיר מטרה.",
+    "באזור המבוקש ביותר בחיפה, אשל הירדן מקימה פרויקט מגורים רחב היקף הכולל 786 יח״ד ומסחר שכונתי, הפרוסים על פני ארבעה מגרשים, בתמהיל של דירות שוק חופשי ודירות מחיר מטרה.",
     "המתחם משלב בנייני בוטיק בני 5 עד 9 קומות לצד מגדלים בני קומות רבות, מסחר שכונתי ופיתוח סביבתי מוקפד. בכל אחד מהמתחמים חלל מרכזי של גינה ציבורית עם ספסלי ישיבה, צמחייה ותאורה, וחיבורים לשטחים הירוקים.",
     "הפרויקט נהנה ממיקום אסטרטגי סמוך לצירי התחבורה המרכזיים: כביש החוף, כביש 4 ומנהרות הכרמל, לצד תחבורה ציבורית וקרבה לתחנת הרכבת."
    ],
@@ -25,9 +37,27 @@
    ]
   },
   "facts": [
-   {"v": "786", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "4", "l": {"he": "מגרשים", "en": "Plots"}},
-   {"v": "5-9", "l": {"he": "קומות בבנייני הבוטיק", "en": "Storeys, boutique buildings"}}
+   {
+    "v": "786",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "4",
+    "l": {
+     "he": "מגרשים",
+     "en": "Plots"
+    }
+   },
+   {
+    "v": "5-9",
+    "l": {
+     "he": "קומות בבנייני הבוטיק",
+     "en": "Storeys, boutique buildings"
+    }
+   }
   ],
   "videos": [],
   "related_city": "haifa"
@@ -37,18 +67,30 @@
   "status": "marketing",
   "featured": 2,
   "images": 11,
-  "name": {"he": "KAVA, מול ארבל", "en": "KAVA, Mul Arbel"},
-  "city": {"he": "טבריה", "en": "Tiberias"},
-  "type": {"he": "מגורי יוקרה בבנייה נמוכה", "en": "Low-rise premium residential"},
+  "name": {
+   "he": "KAVA, מול ארבל",
+   "en": "KAVA, Mul Arbel"
+  },
+  "city": {
+   "he": "טבריה",
+   "en": "Tiberias"
+  },
+  "type": {
+   "he": "מגורי יוקרה בבנייה נמוכה",
+   "en": "Low-rise premium residential"
+  },
   "summary": {
-   "he": "כ-250 יח\"ד בבנייה נמוכה מעל קו המים של הכנרת, בתכנון משרד פרופ' גבי שוורץ.",
+   "he": "כ-250 יח״ד בבנייה נמוכה מעל קו המים של הכנרת, בתכנון משרד פרופ׳ גבי שוורץ.",
    "en": "Around 250 low-rise homes above the Sea of Galilee shoreline, designed by Prof. Gabi Schwartz's studio."
   },
-  "lead": {"he": "קו ראשון לנוף הכנרת", "en": "Front row to the Sea of Galilee"},
+  "lead": {
+   "he": "קו ראשון לנוף הכנרת",
+   "en": "Front row to the Sea of Galilee"
+  },
   "body": {
    "he": [
     "פרויקט יוקרה משותף לאשל הירדן ולקבוצת מגידו, באחד המיקומים הייחודיים בארץ: מעל החוף הפרטי שבכנרת, במיקום טופוגרפי הצופה לנוף פנורמי של הכנרת.",
-    "הפרויקט תוכנן במשרד האדריכלים של פרופ' גבי שוורץ ועתיד לכלול כ-250 יחידות דיור בבנייה נמוכה בשכונת מול ארבל החדשה, מעל קו המים של הכנרת וצוק ארבל, בכניסה הצפונית לטבריה מעל כביש 438.",
+    "הפרויקט תוכנן במשרד האדריכלים של פרופ׳ גבי שוורץ ועתיד לכלול כ-250 יחידות דיור בבנייה נמוכה בשכונת מול ארבל החדשה, מעל קו המים של הכנרת וצוק ארבל, בכניסה הצפונית לטבריה מעל כביש 438.",
     "השכונה מתפרשת על פני 195 דונם של פארקים ירוקים, ומתוכננים בה מבני ציבור ושטחי מסחר. לשכונה גישה נפרדת מכביש 438."
    ],
    "en": [
@@ -58,33 +100,78 @@
    ]
   },
   "facts": [
-   {"v": "~250", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "195", "l": {"he": "דונם שטח השכונה", "en": "Dunams, neighbourhood area"}},
-   {"v": "200 מ'", "ve": "200 m", "l": {"he": "מחוף הכנרת", "en": "From the shoreline"}}
+   {
+    "v": "~250",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "195",
+    "l": {
+     "he": "דונם שטח השכונה",
+     "en": "Dunams, neighbourhood area"
+    }
+   },
+   {
+    "v": "200 מ'",
+    "ve": "200 m",
+    "l": {
+     "he": "מחוף הכנרת",
+     "en": "From the shoreline"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם קבוצת מגידו", "en": "Joint venture with the Megido Group"},
-  "architect": {"he": "משרד האדריכלים פרופ' גבי שוורץ", "en": "Prof. Gabi Schwartz Architects"},
-  "external": {"url": "https://aura-project.co.il/kava/?utm_source=eshel&utm_medium=organic", "label": {"he": "לאתר הפרויקט KAVA", "en": "KAVA project website"}},
-  "videos": ["m1AQRcclKTQ"]
+  "partners": {
+   "he": "בשותפות עם קבוצת מגידו",
+   "en": "Joint venture with the Megido Group"
+  },
+  "architect": {
+   "he": "משרד האדריכלים פרופ׳ גבי שוורץ",
+   "en": "Prof. Gabi Schwartz Architects"
+  },
+  "external": {
+   "url": "https://aura-project.co.il/kava/?utm_source=eshel&utm_medium=organic",
+   "label": {
+    "he": "לאתר הפרויקט KAVA",
+    "en": "KAVA project website"
+   }
+  },
+  "videos": [
+   "m1AQRcclKTQ"
+  ]
  },
  {
   "slug": "elad-center",
   "status": "marketing",
   "featured": 3,
   "images": 4,
-  "name": {"he": "אלעד סנטר", "en": "Elad Center"},
-  "city": {"he": "אלעד", "en": "Elad"},
-  "type": {"he": "מגורים, מסחר ותעסוקה", "en": "Residential, retail and employment"},
+  "name": {
+   "he": "אלעד סנטר",
+   "en": "Elad Center"
+  },
+  "city": {
+   "he": "אלעד",
+   "en": "Elad"
+  },
+  "type": {
+   "he": "מגורים, מסחר ותעסוקה",
+   "en": "Residential, retail and employment"
+  },
   "summary": {
-   "he": "460 יח\"ד ו-40,000 מ\"ר מסחר ותעסוקה במיקום המרכזי ביותר בעיר.",
+   "he": "460 יח״ד ו-40,000 מ״ר מסחר ותעסוקה במיקום המרכזי ביותר בעיר.",
    "en": "460 homes and 40,000 sq m of retail and employment space at the heart of the city."
   },
-  "lead": {"he": "מרכז העיר החדש של אלעד", "en": "A new centre for Elad"},
+  "lead": {
+   "he": "מרכז העיר החדש של אלעד",
+   "en": "A new centre for Elad"
+  },
   "body": {
    "he": [
-    "במיקום המרכזי ביותר בעיר אלעד, אשל הירדן עתידה להקים מיזם המשלב מגורים, מסחר ותעסוקה: 460 יח\"ד ו-40,000 מ\"ר של מסחר ותעסוקה, עם טיילת ירוקה ואזורי מסחר פתוחים ונגישים להולכי רגל.",
+    "במיקום המרכזי ביותר בעיר אלעד, אשל הירדן עתידה להקים מיזם המשלב מגורים, מסחר ותעסוקה: 460 יח״ד ו-40,000 מ״ר של מסחר ותעסוקה, עם טיילת ירוקה ואזורי מסחר פתוחים ונגישים להולכי רגל.",
     "אלעד שוכנת על גבעה המתנשאת לגובה 170 מטר מעל פני הים, מוקפת גבעות מוריקות ויערות, ומשקיפה על המרחב שבין חדרה לגדרה.",
-    "המיזם ממוקם סמוך לכבישים 6 ו-444, ליד מבני חינוך וצירי תנועה מרכזיים, ומשתרע על פני כ-38,000 מ\"ר."
+    "המיזם ממוקם סמוך לכבישים 6 ו-444, ליד מבני חינוך וצירי תנועה מרכזיים, ומשתרע על פני כ-38,000 מ״ר."
    ],
    "en": [
     "At the very centre of Elad, Eshel HaYarden is set to build a mixed-use scheme of 460 homes and 40,000 sq m of retail and employment space, with a green promenade and open, pedestrian-friendly retail streets.",
@@ -93,26 +180,62 @@
    ]
   },
   "facts": [
-   {"v": "460", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "40,000", "l": {"he": "מ\"ר מסחר ותעסוקה", "en": "Sq m retail and employment"}},
-   {"v": "~38,000", "l": {"he": "מ\"ר שטח המיזם", "en": "Sq m site area"}}
+   {
+    "v": "460",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "40,000",
+    "l": {
+     "he": "מ״ר מסחר ותעסוקה",
+     "en": "Sq m retail and employment"
+    }
+   },
+   {
+    "v": "~38,000",
+    "l": {
+     "he": "מ״ר שטח המיזם",
+     "en": "Sq m site area"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם רביץ השקעות וקבוצת ידות", "en": "With Ravitz Real Estate Investments and the Yedot Group"},
-  "videos": ["xnOE0v4yMls", "zsNyacDk96s"]
+  "partners": {
+   "he": "בשותפות עם רביץ השקעות וקבוצת ידות",
+   "en": "With Ravitz Real Estate Investments and the Yedot Group"
+  },
+  "videos": [
+   "xnOE0v4yMls",
+   "zsNyacDk96s"
+  ]
  },
  {
   "slug": "ahuzat-yaar",
   "status": "marketing",
   "featured": 4,
   "images": 5,
-  "name": {"he": "אחוזת יער", "en": "Ahuzat Ya'ar"},
-  "city": {"he": "נופית", "en": "Nofit"},
-  "type": {"he": "וילות בוטיק", "en": "Boutique villas"},
+  "name": {
+   "he": "אחוזת יער",
+   "en": "Ahuzat Ya'ar"
+  },
+  "city": {
+   "he": "נופית",
+   "en": "Nofit"
+  },
+  "type": {
+   "he": "וילות בוטיק",
+   "en": "Boutique villas"
+  },
   "summary": {
    "he": "14 וילות פרטיות בנות 3 מפלסים, עם גינה היקפית ונוף לגליל.",
    "en": "14 private three-level villas with wraparound gardens and views over the Galilee."
   },
-  "lead": {"he": "וילות פרטיות על הר ירוק בגליל התחתון", "en": "Private villas on a green hill in the Lower Galilee"},
+  "lead": {
+   "he": "וילות פרטיות על הר ירוק בגליל התחתון",
+   "en": "Private villas on a green hill in the Lower Galilee"
+  },
   "body": {
    "he": [
     "נופית הוקמה בשלהי שנות ה-80 על ידי גרעין משפחות שחלם על יישוב כפרי בגליל התחתון. כיום, בגובה 213 מטר מעל פני הים, זהו יישוב מבוקש המונה כ-700 משפחות.",
@@ -124,32 +247,73 @@
    ]
   },
   "facts": [
-   {"v": "14", "l": {"he": "וילות", "en": "Villas"}},
-   {"v": "3", "l": {"he": "מפלסים בכל וילה", "en": "Levels per villa"}},
-   {"v": "4", "l": {"he": "כיווני אוויר", "en": "Aspects"}},
-   {"v": "2", "l": {"he": "חניות פרטיות צמודות", "en": "Private parking spaces"}}
+   {
+    "v": "14",
+    "l": {
+     "he": "וילות",
+     "en": "Villas"
+    }
+   },
+   {
+    "v": "3",
+    "l": {
+     "he": "מפלסים בכל וילה",
+     "en": "Levels per villa"
+    }
+   },
+   {
+    "v": "4",
+    "l": {
+     "he": "כיווני אוויר",
+     "en": "Aspects"
+    }
+   },
+   {
+    "v": "2",
+    "l": {
+     "he": "חניות פרטיות צמודות",
+     "en": "Private parking spaces"
+    }
+   }
   ],
   "sales": "*2491",
-  "videos": ["Rd0FnexBILc"]
+  "videos": [
+   "Rd0FnexBILc"
+  ]
  },
  {
   "slug": "hapharsa",
   "status": "marketing",
   "featured": 5,
   "images": 6,
-  "name": {"he": "שכונת הפרסה", "en": "HaParsa Neighbourhood"},
-  "city": {"he": "רכסים", "en": "Rechasim"},
-  "type": {"he": "מגורים ומסחר", "en": "Residential and retail"},
+  "name": {
+   "he": "שכונת הפרסה",
+   "en": "HaParsa Neighbourhood"
+  },
+  "city": {
+   "he": "רכסים",
+   "en": "Rechasim"
+  },
+  "type": {
+   "he": "מגורים ומסחר",
+   "en": "Residential and retail"
+  },
   "summary": {
-   "he": "278 יח\"ד ב-13 בניינים מדורגים ומסחר שכונתי של כ-1,000 מ\"ר, מול הרי הכרמל.",
+   "he": "278 יח״ד ב-13 בניינים מדורגים ומסחר שכונתי של כ-1,000 מ״ר, מול הרי הכרמל.",
    "en": "278 homes in 13 terraced buildings with around 1,000 sq m of local retail, facing Mount Carmel."
   },
-  "lead": {"he": "שכונה חדשה על גבעת הפרסה", "en": "A new neighbourhood on HaParsa hill"},
-  "note": {"he": "החלה המכירה המוקדמת", "en": "Early sales have opened"},
+  "lead": {
+   "he": "שכונה חדשה על גבעת הפרסה",
+   "en": "A new neighbourhood on HaParsa hill"
+  },
+  "note": {
+   "he": "החלה המכירה המוקדמת",
+   "en": "Early sales have opened"
+  },
   "body": {
    "he": [
     "רכסים נמצאת בתנופת פיתוח, ושכונת הפרסה צפויה להגדיל משמעותית את אוכלוסיית היישוב. אשל הירדן מתכננת בשכונה החדשה, על גבעת הפרסה, פרויקט מגורים ומסחר.",
-    "הפרויקט כולל 278 יח\"ד בשוק החופשי ובמחיר מטרה, ב-13 בניינים, ומסחר שכונתי של כ-1,000 מ\"ר. הבניינים מדורגים, בני 6 עד 10 קומות, עם גינות צמודות ומרפסות רחבות הכוללות אופציה לסוכה.",
+    "הפרויקט כולל 278 יח״ד בשוק החופשי ובמחיר מטרה, ב-13 בניינים, ומסחר שכונתי של כ-1,000 מ״ר. הבניינים מדורגים, בני 6 עד 10 קומות, עם גינות צמודות ומרפסות רחבות הכוללות אופציה לסוכה.",
     "תמהיל הדירות כולל דירות 3 עד 7 חדרים, דירות גן ופנטהאוזים, עם נוף פנורמי אל הרי הכרמל. לשכונה מתוכננת כניסה נפרדת מכביש 762, דקות ספורות מכביש 6."
    ],
    "en": [
@@ -159,27 +323,68 @@
    ]
   },
   "facts": [
-   {"v": "278", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "13", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "6-10", "l": {"he": "קומות", "en": "Storeys"}},
-   {"v": "~1,000", "l": {"he": "מ\"ר מסחר", "en": "Sq m retail"}}
+   {
+    "v": "278",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "13",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "6-10",
+    "l": {
+     "he": "קומות",
+     "en": "Storeys"
+    }
+   },
+   {
+    "v": "~1,000",
+    "l": {
+     "he": "מ״ר מסחר",
+     "en": "Sq m retail"
+    }
+   }
   ],
   "sales": "*3569",
-  "videos": ["Q-nmLvvfSNg"]
+  "videos": [
+   "Q-nmLvvfSNg"
+  ]
  },
  {
   "slug": "nofim",
   "status": "marketing",
   "images": 5,
-  "name": {"he": "נופים", "en": "Nofim"},
-  "city": {"he": "מעלות-תרשיחא", "en": "Ma'alot-Tarshiha"},
-  "type": {"he": "מדורגי בוטיק", "en": "Boutique terraced buildings"},
+  "name": {
+   "he": "נופים",
+   "en": "Nofim"
+  },
+  "city": {
+   "he": "מעלות-תרשיחא",
+   "en": "Ma'alot-Tarshiha"
+  },
+  "type": {
+   "he": "מדורגי בוטיק",
+   "en": "Boutique terraced buildings"
+  },
   "summary": {
    "he": "6 מבני בוטיק בשכונת יפה נוף, 2 דירות בקומה ונוף לאגם מונפורט.",
    "en": "Six boutique buildings in Yefe Nof, two apartments per floor, overlooking Lake Monfort."
   },
-  "lead": {"he": "הנוף, הטבע, האגם", "en": "Landscape, woodland and the lake"},
-  "note": {"he": "נותרה דירת גן אחרונה, באכלוס מיידי", "en": "One garden apartment remains, ready to move in"},
+  "lead": {
+   "he": "הנוף, הטבע, האגם",
+   "en": "Landscape, woodland and the lake"
+  },
+  "note": {
+   "he": "נותרה דירת גן אחרונה, באכלוס מיידי",
+   "en": "One garden apartment remains, ready to move in"
+  },
   "body": {
    "he": [
     "מתחם מדורגי הבוטיק של מעלות-תרשיחא נמצא בקצה רחוב אשכולות בשכונת יפה נוף, הגובלת בשווייץ הקטנה ובכפר ורדים.",
@@ -191,9 +396,27 @@
    ]
   },
   "facts": [
-   {"v": "6", "l": {"he": "מבני בוטיק", "en": "Boutique buildings"}},
-   {"v": "2", "l": {"he": "דירות בקומה", "en": "Apartments per floor"}},
-   {"v": "3", "l": {"he": "כיווני אוויר", "en": "Aspects"}}
+   {
+    "v": "6",
+    "l": {
+     "he": "מבני בוטיק",
+     "en": "Boutique buildings"
+    }
+   },
+   {
+    "v": "2",
+    "l": {
+     "he": "דירות בקומה",
+     "en": "Apartments per floor"
+    }
+   },
+   {
+    "v": "3",
+    "l": {
+     "he": "כיווני אוויר",
+     "en": "Aspects"
+    }
+   }
   ],
   "sales": "*2491",
   "sales_ext": "2",
@@ -203,20 +426,35 @@
   "slug": "rova-alonim",
   "status": "marketing",
   "images": 4,
-  "name": {"he": "רובע אלונים", "en": "Rova Alonim"},
-  "city": {"he": "מגדל העמק", "en": "Migdal HaEmek"},
-  "type": {"he": "מגורים ומסחר", "en": "Residential and retail"},
+  "name": {
+   "he": "רובע אלונים",
+   "en": "Rova Alonim"
+  },
+  "city": {
+   "he": "מגדל העמק",
+   "en": "Migdal HaEmek"
+  },
+  "type": {
+   "he": "מגורים ומסחר",
+   "en": "Residential and retail"
+  },
   "summary": {
-   "he": "כ-227 יח\"ד בשכונה החדשה במערב מגדל העמק, בשיתוף קבוצת מגידו.",
+   "he": "כ-227 יח״ד בשכונה החדשה במערב מגדל העמק, בשיתוף קבוצת מגידו.",
    "en": "Around 227 homes in the new western neighbourhood of Migdal HaEmek, with the Megido Group."
   },
-  "lead": {"he": "השכונה החדשה במערב מגדל העמק", "en": "Western Migdal HaEmek's new neighbourhood"},
-  "note": {"he": "כל הדירות נמכרו. נותר שטח מסחר אחרון, 128 מ\"ר", "en": "All homes sold. One 128 sq m retail unit remains"},
+  "lead": {
+   "he": "השכונה החדשה במערב מגדל העמק",
+   "en": "Western Migdal HaEmek's new neighbourhood"
+  },
+  "note": {
+   "he": "כל הדירות נמכרו. נותר שטח מסחר אחרון, 128 מ״ר",
+   "en": "All homes sold. One 128 sq m retail unit remains"
+  },
   "body": {
    "he": [
-    "פרויקט משותף לאשל הירדן ולקבוצת מגידו, הכולל כ-227 יחידות דיור בתמהיל מגוון: דירות, דירות גן, פנטהאוזים, דופלקסים, קוטג'ים ודירות גן/גג.",
-    "השכונה החדשה במערב מגדל העמק עתידה לכלול כ-1,700 יח\"ד, סמוך ליציאה המערבית של העיר לכיוון צומת נהלל, עם תשתית מלאה של מבני ציבור. נסיעה של כ-10 דקות מפרידה בין השכונה לאזור ההייטק ביוקנעם.",
-    "בפרויקט נבנה מתחם מסחר שכונתי של כ-450 מ\"ר בלב הקהילה."
+    "פרויקט משותף לאשל הירדן ולקבוצת מגידו, הכולל כ-227 יחידות דיור בתמהיל מגוון: דירות, דירות גן, פנטהאוזים, דופלקסים, קוטג׳ים ודירות גן/גג.",
+    "השכונה החדשה במערב מגדל העמק עתידה לכלול כ-1,700 יח״ד, סמוך ליציאה המערבית של העיר לכיוון צומת נהלל, עם תשתית מלאה של מבני ציבור. נסיעה של כ-10 דקות מפרידה בין השכונה לאזור ההייטק ביוקנעם.",
+    "בפרויקט נבנה מתחם מסחר שכונתי של כ-450 מ״ר בלב הקהילה."
    ],
    "en": [
     "A joint venture between Eshel HaYarden and the Megido Group, with around 227 homes in a varied mix: apartments, garden apartments, penthouses, duplexes, cottages and garden-roof units.",
@@ -225,11 +463,32 @@
    ]
   },
   "facts": [
-   {"v": "~227", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "~450", "l": {"he": "מ\"ר מסחר שכונתי", "en": "Sq m local retail"}},
-   {"v": "~1,700", "l": {"he": "יח\"ד בשכונה כולה", "en": "Homes in the neighbourhood"}}
+   {
+    "v": "~227",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "~450",
+    "l": {
+     "he": "מ״ר מסחר שכונתי",
+     "en": "Sq m local retail"
+    }
+   },
+   {
+    "v": "~1,700",
+    "l": {
+     "he": "יח״ד בשכונה כולה",
+     "en": "Homes in the neighbourhood"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם קבוצת מגידו", "en": "Joint venture with the Megido Group"},
+  "partners": {
+   "he": "בשותפות עם קבוצת מגידו",
+   "en": "Joint venture with the Megido Group"
+  },
   "sales_tel": "050-6274196",
   "videos": []
  },
@@ -237,15 +496,30 @@
   "slug": "rova-alonim-villas",
   "status": "marketing",
   "images": 10,
-  "name": {"he": "רובע אלונים, צמודי קרקע", "en": "Rova Alonim Villas"},
-  "city": {"he": "מגדל העמק", "en": "Migdal HaEmek"},
-  "type": {"he": "וילות", "en": "Villas"},
+  "name": {
+   "he": "רובע אלונים, צמודי קרקע",
+   "en": "Rova Alonim Villas"
+  },
+  "city": {
+   "he": "מגדל העמק",
+   "en": "Migdal HaEmek"
+  },
+  "type": {
+   "he": "וילות",
+   "en": "Villas"
+  },
   "summary": {
    "he": "61 וילות בשלושה דגמים, השלב האחרון של רובע אלונים מול שדות העמק.",
    "en": "61 villas in three designs, the final phase of Rova Alonim, facing the fields of the valley."
   },
-  "lead": {"he": "וילה פרטית מול שדות העמק", "en": "Private villas facing the valley fields"},
-  "note": {"he": "כל הווילות נמכרו", "en": "All villas sold"},
+  "lead": {
+   "he": "וילה פרטית מול שדות העמק",
+   "en": "Private villas facing the valley fields"
+  },
+  "note": {
+   "he": "כל הווילות נמכרו",
+   "en": "All villas sold"
+  },
   "body": {
    "he": [
     "פרויקט משותף לאשל הירדן ולקבוצת מגידו, הכולל 61 וילות בשכונה המערבית החדשה במגדל העמק, ומהווה את השלב האחרון בפרויקט רובע אלונים.",
@@ -257,29 +531,56 @@
    ]
   },
   "facts": [
-   {"v": "61", "l": {"he": "וילות", "en": "Villas"}},
-   {"v": "3", "l": {"he": "דגמים", "en": "Designs"}}
+   {
+    "v": "61",
+    "l": {
+     "he": "וילות",
+     "en": "Villas"
+    }
+   },
+   {
+    "v": "3",
+    "l": {
+     "he": "דגמים",
+     "en": "Designs"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם קבוצת מגידו", "en": "Joint venture with the Megido Group"},
+  "partners": {
+   "he": "בשותפות עם קבוצת מגידו",
+   "en": "Joint venture with the Megido Group"
+  },
   "videos": []
  },
  {
   "slug": "kiryat-ata",
   "status": "planning",
   "images": 0,
-  "name": {"he": "קריית אתא צפון", "en": "Kiryat Ata North"},
-  "city": {"he": "קריית אתא", "en": "Kiryat Ata"},
-  "type": {"he": "מגורים, מסחר ותעסוקה", "en": "Residential, retail and employment"},
+  "name": {
+   "he": "קריית אתא צפון",
+   "en": "Kiryat Ata North"
+  },
+  "city": {
+   "he": "קריית אתא",
+   "en": "Kiryat Ata"
+  },
+  "type": {
+   "he": "מגורים, מסחר ותעסוקה",
+   "en": "Residential, retail and employment"
+  },
   "summary": {
-   "he": "1,122 יח\"ד, 38,000 מ\"ר מסחר ו-65,000 מ\"ר תעסוקה במרכז החדש של קריית אתא צפון.",
+   "he": "1,122 יח״ד, 38,000 מ״ר מסחר ו-65,000 מ״ר תעסוקה במרכז החדש של קריית אתא צפון.",
    "en": "1,122 homes, 38,000 sq m of retail and 65,000 sq m of employment space in Kiryat Ata North's new centre."
   },
-  "lead": {"he": "חלק מרכזי במרכז העירוני החדש", "en": "A core part of a new city centre"},
+  "lead": {
+   "he": "חלק מרכזי במרכז העירוני החדש",
+   "en": "A core part of a new city centre"
+  },
   "body": {
    "he": [
-    "אשל הירדן, בשותפות עם ריביירה צרפת ישראל בע\"מ, מקדמת פרויקט המהווה חלק מרכזי בפיתוח המרכז החדש של קריית אתא צפון: 1,122 יח\"ד בשוק החופשי, 38,000 מ\"ר שטחי מסחר ו-65,000 מ\"ר שטחי תעסוקה.",
+    "אשל הירדן, בשותפות עם ריביירה צרפת ישראל בע״מ, מקדמת פרויקט המהווה חלק מרכזי בפיתוח המרכז החדש של קריית אתא צפון: 1,122 יח״ד בשוק החופשי, 38,000 מ״ר שטחי מסחר ו-65,000 מ״ר שטחי תעסוקה.",
     "הפרויקט כולל שלושה מתחמים על פני יותר מ-100 דונם בלב המרקם העירוני החדש, הצופים לכיכר עירונית ולשטחים ירוקים. תוואי הרכבת הקלה \"נופית\" מתוכנן לחצות אותו, עם 2 תחנות במרכז העיר החדש.",
-    "השכונה, בין גבעת הכלניות לשכונת ביאליק על הפארק, מתוכננת לכ-10,952 יח\"ד לצד מסחר, משרדים, מבני ציבור, בית חולים אזורי, מוסד להשכלה גבוהה ופארק מטרופוליני."
+    "השכונה, בין גבעת הכלניות לשכונת ביאליק על הפארק, מתוכננת לכ-10,952 יח״ד לצד מסחר, משרדים, מבני ציבור, בית חולים אזורי, מוסד להשכלה גבוהה ופארק מטרופוליני."
    ],
    "en": [
     "In partnership with Riviera France Israel Ltd, Eshel HaYarden is advancing a project at the core of Kiryat Ata North's new city centre: 1,122 open-market homes, 38,000 sq m of retail and 65,000 sq m of employment space.",
@@ -288,31 +589,73 @@
    ]
   },
   "facts": [
-   {"v": "1,122", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "38,000", "l": {"he": "מ\"ר מסחר", "en": "Sq m retail"}},
-   {"v": "65,000", "l": {"he": "מ\"ר תעסוקה", "en": "Sq m employment"}},
-   {"v": "100+", "l": {"he": "דונם", "en": "Dunams"}}
+   {
+    "v": "1,122",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "38,000",
+    "l": {
+     "he": "מ״ר מסחר",
+     "en": "Sq m retail"
+    }
+   },
+   {
+    "v": "65,000",
+    "l": {
+     "he": "מ״ר תעסוקה",
+     "en": "Sq m employment"
+    }
+   },
+   {
+    "v": "100+",
+    "l": {
+     "he": "דונם",
+     "en": "Dunams"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם ריביירה צרפת ישראל בע\"מ", "en": "In partnership with Riviera France Israel Ltd"},
+  "partners": {
+   "he": "בשותפות עם ריביירה צרפת ישראל בע״מ",
+   "en": "In partnership with Riviera France Israel Ltd"
+  },
   "videos": []
  },
  {
   "slug": "rechasim",
   "status": "planning",
   "images": 2,
-  "name": {"he": "מתחם עירוב שימושים", "en": "Mixed-use Quarter"},
-  "city": {"he": "רכסים", "en": "Rechasim"},
-  "type": {"he": "מגורים, מסחר ומלונאות", "en": "Residential, retail and hospitality"},
+  "name": {
+   "he": "מתחם עירוב שימושים",
+   "en": "Mixed-use Quarter"
+  },
+  "city": {
+   "he": "רכסים",
+   "en": "Rechasim"
+  },
+  "type": {
+   "he": "מגורים, מסחר ומלונאות",
+   "en": "Residential, retail and hospitality"
+  },
   "summary": {
-   "he": "מלון בן 200 יחידות אירוח, 80 יח\"ד ו-3,500 מ\"ר מסחר סביב חלל ציבורי פתוח.",
+   "he": "מלון בן 200 יחידות אירוח, 80 יח״ד ו-3,500 מ״ר מסחר סביב חלל ציבורי פתוח.",
    "en": "A 200-key hotel, 80 homes and 3,500 sq m of retail around an open public space."
   },
-  "lead": {"he": "מגורים, מסחר ומלונאות בעמק זבולון", "en": "Homes, retail and a hotel in the Zevulun Valley"},
-  "note": {"he": "בתהליך תכנון ראשוני", "en": "In early planning"},
+  "lead": {
+   "he": "מגורים, מסחר ומלונאות בעמק זבולון",
+   "en": "Homes, retail and a hotel in the Zevulun Valley"
+  },
+  "note": {
+   "he": "בתהליך תכנון ראשוני",
+   "en": "In early planning"
+  },
   "body": {
    "he": [
-    "בעמק זבולון, כ-5 ק\"מ מחיפה, יוקם במסגרת תכנית המתאר של רכסים מתחם עירוב שימושים הכולל מלון, שטחי מסחר ומגורים.",
-    "במתחם יוקמו 200 יחידות אירוח ו-80 יחידות דיור, סביב חלל ציבורי פתוח הפונה לנוף השדות. המלון מתוכנן מעל 3,500 מ\"ר שטחי מסחר, ומתחתיו חניון תת-קרקעי בן שתי קומות."
+    "בעמק זבולון, כ-5 ק״מ מחיפה, יוקם במסגרת תכנית המתאר של רכסים מתחם עירוב שימושים הכולל מלון, שטחי מסחר ומגורים.",
+    "במתחם יוקמו 200 יחידות אירוח ו-80 יחידות דיור, סביב חלל ציבורי פתוח הפונה לנוף השדות. המלון מתוכנן מעל 3,500 מ״ר שטחי מסחר, ומתחתיו חניון תת-קרקעי בן שתי קומות."
    ],
    "en": [
     "In the Zevulun Valley, about 5 km from Haifa, the Rechasim master plan includes a mixed-use quarter combining a hotel, retail and housing.",
@@ -320,9 +663,27 @@
    ]
   },
   "facts": [
-   {"v": "200", "l": {"he": "יחידות אירוח", "en": "Hotel rooms"}},
-   {"v": "80", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "3,500", "l": {"he": "מ\"ר מסחר", "en": "Sq m retail"}}
+   {
+    "v": "200",
+    "l": {
+     "he": "יחידות אירוח",
+     "en": "Hotel rooms"
+    }
+   },
+   {
+    "v": "80",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "3,500",
+    "l": {
+     "he": "מ״ר מסחר",
+     "en": "Sq m retail"
+    }
+   }
   ],
   "videos": []
  },
@@ -330,18 +691,33 @@
   "slug": "maar-rechasim",
   "status": "planning",
   "images": 1,
-  "name": {"he": "מע\"ר רכסים", "en": "Rechasim Business Centre"},
-  "city": {"he": "רכסים", "en": "Rechasim"},
-  "type": {"he": "משרדים ומסחר", "en": "Offices and retail"},
+  "name": {
+   "he": "מע״ר רכסים",
+   "en": "Rechasim Business Centre"
+  },
+  "city": {
+   "he": "רכסים",
+   "en": "Rechasim"
+  },
+  "type": {
+   "he": "משרדים ומסחר",
+   "en": "Offices and retail"
+  },
   "summary": {
-   "he": "מבנה משרדים ומסחר בן 5 קומות, כ-6,000 מ\"ר, סמוך למחלף כביש 6.",
+   "he": "מבנה משרדים ומסחר בן 5 קומות, כ-6,000 מ״ר, סמוך למחלף כביש 6.",
    "en": "A five-storey office and retail building of around 6,000 sq m, close to the Route 6 interchange."
   },
-  "lead": {"he": "מרכז העסקים הראשי של רכסים", "en": "The main business centre of Rechasim"},
-  "note": {"he": "בתהליך תכנון מתקדם", "en": "In advanced planning"},
+  "lead": {
+   "he": "מרכז העסקים הראשי של רכסים",
+   "en": "The main business centre of Rechasim"
+  },
+  "note": {
+   "he": "בתהליך תכנון מתקדם",
+   "en": "In advanced planning"
+  },
   "body": {
    "he": [
-    "סמוך לחיפה ולקריות, צמוד למחלף כביש 6, יוקם מתחם עסקים חדש: מבנה משרדים ומסחר בן 5 קומות עם כ-6,000 מ\"ר שטחי בנייה ותכנון אדריכלי של אשל הירדן.",
+    "סמוך לחיפה ולקריות, צמוד למחלף כביש 6, יוקם מתחם עסקים חדש: מבנה משרדים ומסחר בן 5 קומות עם כ-6,000 מ״ר שטחי בנייה ותכנון אדריכלי של אשל הירדן.",
     "למבנה חניון תת-קרקעי, קומת קרקע עם ארקדה מקורה הפונה לשדרת הרחוב, פתחים גבוהים ומרפסות בכל קומה. המבנה ממוקם ליד בניין העירייה ומסוף התחבורה הראשי העתידי של היישוב."
    ],
    "en": [
@@ -350,8 +726,20 @@
    ]
   },
   "facts": [
-   {"v": "5", "l": {"he": "קומות", "en": "Storeys"}},
-   {"v": "~6,000", "l": {"he": "מ\"ר שטחי בנייה", "en": "Sq m built area"}}
+   {
+    "v": "5",
+    "l": {
+     "he": "קומות",
+     "en": "Storeys"
+    }
+   },
+   {
+    "v": "~6,000",
+    "l": {
+     "he": "מ״ר שטחי בנייה",
+     "en": "Sq m built area"
+    }
+   }
   ],
   "videos": []
  },
@@ -359,17 +747,29 @@
   "slug": "dania",
   "status": "planning",
   "images": 1,
-  "name": {"he": "דניה הירוקה", "en": "Green Denya"},
-  "city": {"he": "חיפה", "en": "Haifa"},
-  "type": {"he": "צמודי קרקע", "en": "Detached homes"},
+  "name": {
+   "he": "דניה הירוקה",
+   "en": "Green Denya"
+  },
+  "city": {
+   "he": "חיפה",
+   "en": "Haifa"
+  },
+  "type": {
+   "he": "צמודי קרקע",
+   "en": "Detached homes"
+  },
   "summary": {
    "he": "222 בתים צמודי קרקע על מורדות הכרמל, כשמחצית משטח הפרויקט נשמרת כריאה ירוקה.",
    "en": "222 detached homes on the slopes of Mount Carmel, with half the site kept as open green space."
   },
-  "lead": {"he": "בתים על מורדות הכרמל", "en": "Homes on the slopes of the Carmel"},
+  "lead": {
+   "he": "בתים על מורדות הכרמל",
+   "en": "Homes on the slopes of the Carmel"
+  },
   "body": {
    "he": [
-    "פרויקט דניה הירוקה משתרע על כ-107 דונם על מורדות הכרמל, בדרום שכונת דניה, וכולל 222 בתים צמודי קרקע על מגרשים בגודל 600 עד 1,100 מ\"ר.",
+    "פרויקט דניה הירוקה משתרע על כ-107 דונם על מורדות הכרמל, בדרום שכונת דניה, וכולל 222 בתים צמודי קרקע על מגרשים בגודל 600 עד 1,100 מ״ר.",
     "50% משטח הפרויקט יהווה ריאה ירוקה, עם שבילי הליכה ואופניים שיחברו את שכונת דניה לפארק הכרמל. בשכונה מרכז מסחרי שכונתי, מבנה ציבור ומלון בוטיק בן 50 חדרים. הבתים צופים דרומה לפארק הכרמל ומערבה לים."
    ],
    "en": [
@@ -378,13 +778,43 @@
    ]
   },
   "facts": [
-   {"v": "222", "l": {"he": "בתים", "en": "Homes"}},
-   {"v": "~107", "l": {"he": "דונם", "en": "Dunams"}},
-   {"v": "50%", "l": {"he": "שטח ירוק פתוח", "en": "Open green space"}}
+   {
+    "v": "222",
+    "l": {
+     "he": "בתים",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "~107",
+    "l": {
+     "he": "דונם",
+     "en": "Dunams"
+    }
+   },
+   {
+    "v": "50%",
+    "l": {
+     "he": "שטח ירוק פתוח",
+     "en": "Open green space"
+    }
+   }
   ],
   "press": [
-   {"label": {"he": "כלכליסט", "en": "Calcalist"}, "url": "https://www.calcalist.co.il/offportal_calcalist_redirect.html?offpath=/real-estate/article/h1wae5wqr"},
-   {"label": {"he": "ynet חיפה", "en": "ynet Haifa"}, "url": "https://haifa.mynet.co.il/local_news/article/hjxn3yp7c"}
+   {
+    "label": {
+     "he": "כלכליסט",
+     "en": "Calcalist"
+    },
+    "url": "https://www.calcalist.co.il/offportal_calcalist_redirect.html?offpath=/real-estate/article/h1wae5wqr"
+   },
+   {
+    "label": {
+     "he": "ynet חיפה",
+     "en": "ynet Haifa"
+    },
+    "url": "https://haifa.mynet.co.il/local_news/article/hjxn3yp7c"
+   }
   ],
   "videos": []
  },
@@ -392,18 +822,30 @@
   "slug": "beit-amichai",
   "status": "planning",
   "images": 5,
-  "name": {"he": "בית עמיחי", "en": "Beit Amichai"},
-  "city": {"he": "עכו", "en": "Acre"},
-  "type": {"he": "מגורים קהילתיים", "en": "Community residential"},
+  "name": {
+   "he": "בית עמיחי",
+   "en": "Beit Amichai"
+  },
+  "city": {
+   "he": "עכו",
+   "en": "Acre"
+  },
+  "type": {
+   "he": "מגורים קהילתיים",
+   "en": "Community residential"
+  },
   "summary": {
-   "he": "2 בנייני מגורים, 64 יח\"ד, בצמוד לתחנת הרכבת במרכז עכו.",
+   "he": "2 בנייני מגורים, 64 יח״ד, בצמוד לתחנת הרכבת במרכז עכו.",
    "en": "Two residential buildings, 64 homes, next to the railway station in central Acre."
   },
-  "lead": {"he": "בית שהוא קהילה", "en": "A building that is a community"},
+  "lead": {
+   "he": "בית שהוא קהילה",
+   "en": "A building that is a community"
+  },
   "body": {
    "he": [
     "מתחם מגורים חדש בעל צביון דתי-לאומי ומאפיינים קהילתיים במרכז עכו, בהובלת גרעין אומץ ומכינת אבנר. המיקום, בצמוד לתחנת הרכבת ולתחנה המרכזית, מעניק גישה נוחה לצירי התנועה.",
-    "בפרויקט 2 בנייני מגורים ו-64 יח\"ד: דירות 3, 4 ו-5 חדרים עם מרפסות, ופנטהאוזים של 5 ו-6 חדרים. המרחבים המשותפים כוללים מבואות מרווחות, מרחבים מוגנים קומתיים דו-תכליתיים וגג ארקדה מגונן ומרוצף לרווחת הדיירים."
+    "בפרויקט 2 בנייני מגורים ו-64 יח״ד: דירות 3, 4 ו-5 חדרים עם מרפסות, ופנטהאוזים של 5 ו-6 חדרים. המרחבים המשותפים כוללים מבואות מרווחות, מרחבים מוגנים קומתיים דו-תכליתיים וגג ארקדה מגונן ומרוצף לרווחת הדיירים."
    ],
    "en": [
     "A new residential compound with a religious-Zionist, community character in central Acre, led by the Ometz community group and the Avner pre-military academy. Its location next to the railway station and central bus station puts the main roads within easy reach.",
@@ -411,9 +853,27 @@
    ]
   },
   "facts": [
-   {"v": "64", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "2", "l": {"he": "בנייני מגורים", "en": "Buildings"}},
-   {"v": "3-6", "l": {"he": "חדרים", "en": "Rooms"}}
+   {
+    "v": "64",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "2",
+    "l": {
+     "he": "בנייני מגורים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "3-6",
+    "l": {
+     "he": "חדרים",
+     "en": "Rooms"
+    }
+   }
   ],
   "videos": []
  },
@@ -422,17 +882,29 @@
   "status": "occupied",
   "year": 2025,
   "images": 4,
-  "name": {"he": "טרסה", "en": "Terrace"},
-  "city": {"he": "כרמיאל", "en": "Karmiel"},
-  "type": {"he": "מחיר למשתכן", "en": "Government-assisted housing"},
+  "name": {
+   "he": "טרסה",
+   "en": "Terrace"
+  },
+  "city": {
+   "he": "כרמיאל",
+   "en": "Karmiel"
+  },
+  "type": {
+   "he": "מחיר למשתכן",
+   "en": "Government-assisted housing"
+  },
   "summary": {
-   "he": "222 יח\"ד ב-30 בניינים על צלע הר כרמי, בחמישה מתחמים מדורגים.",
+   "he": "222 יח״ד ב-30 בניינים על צלע הר כרמי, בחמישה מתחמים מדורגים.",
    "en": "222 homes in 30 buildings on the slope of Mount Karmi, in five terraced compounds."
   },
-  "lead": {"he": "מגורים מדורגים על צלע ההר", "en": "Terraced living on the hillside"},
+  "lead": {
+   "he": "מגורים מדורגים על צלע ההר",
+   "en": "Terraced living on the hillside"
+  },
   "body": {
    "he": [
-    "בשכונת רמת נבון בכרמיאל נבנה פרויקט מגורים במסגרת 'מחיר למשתכן' ו'משפרי דיור': 222 יחידות דיור על צלע הר כרמי, הפונות מזרחה אל הרי הגליל התחתון, גוש שגב והעיר.",
+    "בשכונת רמת נבון בכרמיאל נבנה פרויקט מגורים במסגרת 'מחיר למשתכן׳ ו׳משפרי דיור׳: 222 יחידות דיור על צלע הר כרמי, הפונות מזרחה אל הרי הגליל התחתון, גוש שגב והעיר.",
     "30 בניינים עם ממוצע של 7 דירות בבניין, רובן עם גינה או מרפסת פנטהאוז. הפרויקט בנוי בחמישה מתחמים בגבהים שונים על צלע ההר, ומכאן שמו. שטח ציבורי מפותח חוצה את ההר מהפסגה ועד הכביש הראשי."
    ],
    "en": [
@@ -441,9 +913,27 @@
    ]
   },
   "facts": [
-   {"v": "222", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "30", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2025", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "222",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "30",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2025",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
   "videos": []
  },
@@ -451,18 +941,33 @@
   "slug": "migdalei-hanasi",
   "status": "occupied",
   "images": 4,
-  "name": {"he": "מגדלי הנשיא", "en": "Migdalei HaNasi"},
-  "city": {"he": "נהריה", "en": "Nahariya"},
-  "type": {"he": "מגדלי מגורים ובנייני בוטיק", "en": "Residential towers and boutique buildings"},
+  "name": {
+   "he": "מגדלי הנשיא",
+   "en": "Migdalei HaNasi"
+  },
+  "city": {
+   "he": "נהריה",
+   "en": "Nahariya"
+  },
+  "type": {
+   "he": "מגדלי מגורים ובנייני בוטיק",
+   "en": "Residential towers and boutique buildings"
+  },
   "summary": {
-   "he": "292 יח\"ד בשלושה מגדלים ושלושה בנייני בוטיק בשכונת רסקו החדשה, בתכנון האדריכל אילן פיבקו.",
+   "he": "292 יח״ד בשלושה מגדלים ושלושה בנייני בוטיק בשכונת רסקו החדשה, בתכנון האדריכל אילן פיבקו.",
    "en": "292 homes in three towers and three boutique buildings in the new Rassco neighbourhood, designed by architect Ilan Pivko."
   },
-  "lead": {"he": "בין הים הפתוח לכביש 4", "en": "Between the open sea and Route 4"},
-  "note": {"he": "נותר פנטהאוז אחרון", "en": "One penthouse remains"},
+  "lead": {
+   "he": "בין הים הפתוח לכביש 4",
+   "en": "Between the open sea and Route 4"
+  },
+  "note": {
+   "he": "נותר פנטהאוז אחרון",
+   "en": "One penthouse remains"
+  },
   "body": {
    "he": [
-    "בשותפות עם חברת גשם נבנה בשכונת רסקו החדשה, בין הים לכביש 4, פרויקט של שלושה בנייני בוטיק ושלושה מגדלים, 292 יח\"ד בסך הכול, עם נוף לים ולפארק חדש. בהליכה קצרה נמצאת טיילת עם שבילי אופניים.",
+    "בשותפות עם חברת גשם נבנה בשכונת רסקו החדשה, בין הים לכביש 4, פרויקט של שלושה בנייני בוטיק ושלושה מגדלים, 292 יח״ד בסך הכול, עם נוף לים ולפארק חדש. בהליכה קצרה נמצאת טיילת עם שבילי אופניים.",
     "הפרויקט תוכנן על ידי האדריכל אילן פיבקו. השכונה נמצאת כ-5 דקות נסיעה מתחנת הרכבת של נהריה."
    ],
    "en": [
@@ -471,11 +976,29 @@
    ]
   },
   "facts": [
-   {"v": "292", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "3+3", "l": {"he": "מגדלים ובנייני בוטיק", "en": "Towers and boutique buildings"}}
+   {
+    "v": "292",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "3+3",
+    "l": {
+     "he": "מגדלים ובנייני בוטיק",
+     "en": "Towers and boutique buildings"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם חברת גשם", "en": "In partnership with Geshem"},
-  "architect": {"he": "אדריכל אילן פיבקו", "en": "Ilan Pivko, architect"},
+  "partners": {
+   "he": "בשותפות עם חברת גשם",
+   "en": "In partnership with Geshem"
+  },
+  "architect": {
+   "he": "אדריכל אילן פיבקו",
+   "en": "Ilan Pivko, architect"
+  },
   "sales": "*6487",
   "videos": []
  },
@@ -484,18 +1007,30 @@
   "status": "occupied",
   "year": 2023,
   "images": 2,
-  "name": {"he": "The Valley", "en": "The Valley"},
-  "city": {"he": "נהריה", "en": "Nahariya"},
-  "type": {"he": "מגורים", "en": "Residential"},
+  "name": {
+   "he": "The Valley",
+   "en": "The Valley"
+  },
+  "city": {
+   "he": "נהריה",
+   "en": "Nahariya"
+  },
+  "type": {
+   "he": "מגורים",
+   "en": "Residential"
+  },
   "summary": {
-   "he": "272 יח\"ד ב-6 בניינים, המתחם הצפוני מבין חמישה מתחמים בשכונה.",
+   "he": "272 יח״ד ב-6 בניינים, המתחם הצפוני מבין חמישה מתחמים בשכונה.",
    "en": "272 homes in six buildings, the northern compound of five in the neighbourhood."
   },
-  "lead": {"he": "בין נופי הגליל לים", "en": "Between the Galilee hills and the sea"},
+  "lead": {
+   "he": "בין נופי הגליל לים",
+   "en": "Between the Galilee hills and the sea"
+  },
   "body": {
    "he": [
     "בשותפות עם חברת גשם נבנה המתחם הצפוני מתוך חמישה מתחמים בשכונה, בתמהיל של דירות 3 עד 5 חדרים, מוקף גני משחקים ופארקים, סמוך לכביש 89 המתחבר לכבישים 4 ו-6.",
-    "הפרויקט כולל 6 בניינים ו-272 יח\"ד, ואוכלס בשנת 2023."
+    "הפרויקט כולל 6 בניינים ו-272 יח״ד, ואוכלס בשנת 2023."
    ],
    "en": [
     "Built with Geshem, this is the northern compound of five in the neighbourhood, with 3 to 5-room apartments surrounded by playgrounds and parks, close to Route 89, which links to Routes 4 and 6.",
@@ -503,11 +1038,32 @@
    ]
   },
   "facts": [
-   {"v": "272", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "6", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2023", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "272",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "6",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2023",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
-  "partners": {"he": "בשותפות עם חברת גשם", "en": "In partnership with Geshem"},
+  "partners": {
+   "he": "בשותפות עם חברת גשם",
+   "en": "In partnership with Geshem"
+  },
   "videos": []
  },
  {
@@ -515,14 +1071,26 @@
   "status": "occupied",
   "year": 2022,
   "images": 2,
-  "name": {"he": "השכונה הלבנה", "en": "HaShechuna HaLevana"},
-  "city": {"he": "כרמיאל", "en": "Karmiel"},
-  "type": {"he": "מגורים", "en": "Residential"},
+  "name": {
+   "he": "השכונה הלבנה",
+   "en": "HaShechuna HaLevana"
+  },
+  "city": {
+   "he": "כרמיאל",
+   "en": "Karmiel"
+  },
+  "type": {
+   "he": "מגורים",
+   "en": "Residential"
+  },
   "summary": {
    "he": "שני מתחמי מגורים בכניסה לכרמיאל, בתכנון האדריכל גבי שוורץ, בין שני פארקים.",
    "en": "Two residential compounds at the entrance to Karmiel, designed by architect Gabi Schwartz, between two parks."
   },
-  "lead": {"he": "בין פארק רבין לפארק טללים", "en": "Between Rabin Park and Tlalim Park"},
+  "lead": {
+   "he": "בין פארק רבין לפארק טללים",
+   "en": "Between Rabin Park and Tlalim Park"
+  },
   "body": {
    "he": [
     "פרויקט שנבנה בשיתוף חברת טרקלין, בכניסה לכרמיאל ובקרבה לצירי התנועה המרכזיים. השכונה, ברמת רבין, נושקת לשני פארקים: פארק רבין ופארק טללים.",
@@ -534,12 +1102,36 @@
    ]
   },
   "facts": [
-   {"v": "2", "l": {"he": "מתחמים", "en": "Compounds"}},
-   {"v": "10", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2022", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "2",
+    "l": {
+     "he": "מתחמים",
+     "en": "Compounds"
+    }
+   },
+   {
+    "v": "10",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2022",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
-  "partners": {"he": "בשיתוף חברת טרקלין", "en": "With Traklin"},
-  "architect": {"he": "אדריכל גבי שוורץ", "en": "Gabi Schwartz, architect"},
+  "partners": {
+   "he": "בשיתוף חברת טרקלין",
+   "en": "With Traklin"
+  },
+  "architect": {
+   "he": "אדריכל גבי שוורץ",
+   "en": "Gabi Schwartz, architect"
+  },
   "videos": []
  },
  {
@@ -547,18 +1139,30 @@
   "status": "occupied",
   "year": 2021,
   "images": 3,
-  "name": {"he": "לב הפסגה", "en": "Lev HaPisga"},
-  "city": {"he": "כרמיאל", "en": "Karmiel"},
-  "type": {"he": "מגורים", "en": "Residential"},
+  "name": {
+   "he": "לב הפסגה",
+   "en": "Lev HaPisga"
+  },
+  "city": {
+   "he": "כרמיאל",
+   "en": "Karmiel"
+  },
+  "type": {
+   "he": "מגורים",
+   "en": "Residential"
+  },
   "summary": {
-   "he": "224 יח\"ד ב-15 בניינים בני 5 עד 7 קומות בשכונת רמת נבון.",
+   "he": "224 יח״ד ב-15 בניינים בני 5 עד 7 קומות בשכונת רמת נבון.",
    "en": "224 homes in 15 buildings of 5 to 7 storeys in Ramat Navon."
   },
-  "lead": {"he": "שני מתחמים סביב מרחב פתוח", "en": "Two compounds around an open space"},
+  "lead": {
+   "he": "שני מתחמים סביב מרחב פתוח",
+   "en": "Two compounds around an open space"
+  },
   "body": {
    "he": [
     "בשכונת רמת נבון בכרמיאל נבנה מתחם מגורים בשם לב הפסגה. בתכנון ניתן דגש על חזות ייצוגית של צורה וצבע ועל הפניית הדירות לשמירה על פרטיות.",
-    "בפרויקט שני מתחמים סביב מרחב פתוח לחניה וגינון: 15 מבני מגורים בני 5 עד 7 קומות, 224 יח\"ד. הפרויקט אוכלס ב-2021."
+    "בפרויקט שני מתחמים סביב מרחב פתוח לחניה וגינון: 15 מבני מגורים בני 5 עד 7 קומות, 224 יח״ד. הפרויקט אוכלס ב-2021."
    ],
    "en": [
     "Lev HaPisga was built in the Ramat Navon neighbourhood of Karmiel. The design focuses on a distinctive form and colour palette, and on orienting apartments for privacy.",
@@ -566,9 +1170,27 @@
    ]
   },
   "facts": [
-   {"v": "224", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "15", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2021", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "224",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "15",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2021",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
   "videos": []
  },
@@ -577,18 +1199,30 @@
   "status": "occupied",
   "year": 2021,
   "images": 3,
-  "name": {"he": "U New", "en": "U New"},
-  "city": {"he": "מגדל העמק", "en": "Migdal HaEmek"},
-  "type": {"he": "מגורים", "en": "Residential"},
+  "name": {
+   "he": "U New",
+   "en": "U New"
+  },
+  "city": {
+   "he": "מגדל העמק",
+   "en": "Migdal HaEmek"
+  },
+  "type": {
+   "he": "מגורים",
+   "en": "Residential"
+  },
   "summary": {
-   "he": "56 יח\"ד בשני בניינים בני 5 עד 6 קומות, המשך לפרויקט U בעמק.",
+   "he": "56 יח״ד בשני בניינים בני 5 עד 6 קומות, המשך לפרויקט U בעמק.",
    "en": "56 homes in two buildings of 5 to 6 storeys, following on from U BaEmek."
   },
-  "lead": {"he": "מתחם מגורים פרטי במגדל העמק", "en": "A private residential compound in Migdal HaEmek"},
+  "lead": {
+   "he": "מתחם מגורים פרטי במגדל העמק",
+   "en": "A private residential compound in Migdal HaEmek"
+  },
   "body": {
    "he": [
-    "U New כולל שני מבני מגורים בני 5 עד 6 קומות, 56 יח\"ד בסך הכול, עם תכנון ועיצוב עכשוויים, פיתוח סביבתי וחללים מרווחים. הפרויקט אוכלס במלואו בשנת 2021.",
-    "הפרויקט ממשיך את מתחם U בעמק, שנבנה ברחוב נחל צבי פינת הערבה בקריית רבין, כולל 4 מבני מגורים ו-104 יח\"ד, ואוכלס בשנת 2015."
+    "U New כולל שני מבני מגורים בני 5 עד 6 קומות, 56 יח״ד בסך הכול, עם תכנון ועיצוב עכשוויים, פיתוח סביבתי וחללים מרווחים. הפרויקט אוכלס במלואו בשנת 2021.",
+    "הפרויקט ממשיך את מתחם U בעמק, שנבנה ברחוב נחל צבי פינת הערבה בקריית רבין, כולל 4 מבני מגורים ו-104 יח״ד, ואוכלס בשנת 2015."
    ],
    "en": [
     "U New consists of two residential buildings of 5 to 6 storeys, 56 homes in total, with contemporary design, landscaped grounds and generous interiors. It was fully occupied in 2021.",
@@ -596,9 +1230,27 @@
    ]
   },
   "facts": [
-   {"v": "56", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "2", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2021", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "56",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "2",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2021",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
   "videos": []
  },
@@ -607,22 +1259,56 @@
   "status": "occupied",
   "year": 2020,
   "images": 1,
-  "name": {"he": "פסגת שגיא", "en": "Pisgat Sagi"},
-  "city": {"he": "כרמיאל", "en": "Karmiel"},
-  "type": {"he": "מגורים", "en": "Residential"},
+  "name": {
+   "he": "פסגת שגיא",
+   "en": "Pisgat Sagi"
+  },
+  "city": {
+   "he": "כרמיאל",
+   "en": "Karmiel"
+  },
+  "type": {
+   "he": "מגורים",
+   "en": "Residential"
+  },
   "summary": {
-   "he": "57 יח\"ד ב-13 מבני מגורים בני 3 עד 7 קומות.",
+   "he": "57 יח״ד ב-13 מבני מגורים בני 3 עד 7 קומות.",
    "en": "57 homes in 13 buildings of 3 to 7 storeys."
   },
-  "lead": {"he": "פרויקט מגורים בכרמיאל", "en": "A residential project in Karmiel"},
+  "lead": {
+   "he": "פרויקט מגורים בכרמיאל",
+   "en": "A residential project in Karmiel"
+  },
   "body": {
-   "he": ["פרויקט מגורים של 13 מבני מגורים בני 3 עד 7 קומות, הכוללים 57 יח\"ד. הפרויקט אוכלס בשנת 2020."],
-   "en": ["A residential project of 13 buildings of 3 to 7 storeys, with 57 homes. It was completed in 2020."]
+   "he": [
+    "פרויקט מגורים של 13 מבני מגורים בני 3 עד 7 קומות, הכוללים 57 יח״ד. הפרויקט אוכלס בשנת 2020."
+   ],
+   "en": [
+    "A residential project of 13 buildings of 3 to 7 storeys, with 57 homes. It was completed in 2020."
+   ]
   },
   "facts": [
-   {"v": "57", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "13", "l": {"he": "בניינים", "en": "Buildings"}},
-   {"v": "2020", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "57",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "13",
+    "l": {
+     "he": "בניינים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2020",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
   "videos": []
  },
@@ -631,22 +1317,56 @@
   "status": "occupied",
   "year": 2016,
   "images": 1,
-  "name": {"he": "פסגת מכוש", "en": "Pisgat Machosh"},
-  "city": {"he": "כרמיאל", "en": "Karmiel"},
-  "type": {"he": "קוטג'ים", "en": "Cottages"},
+  "name": {
+   "he": "פסגת מכוש",
+   "en": "Pisgat Machosh"
+  },
+  "city": {
+   "he": "כרמיאל",
+   "en": "Karmiel"
+  },
+  "type": {
+   "he": "קוטג׳ים",
+   "en": "Cottages"
+  },
   "summary": {
-   "he": "57 יח\"ד בתשעה מבני קוטג'ים בשכונת מכוש.",
+   "he": "57 יח״ד בתשעה מבני קוטג׳ים בשכונת מכוש.",
    "en": "57 homes in nine cottage buildings in the Machosh neighbourhood."
   },
-  "lead": {"he": "קוטג'ים בשכונת מכוש", "en": "Cottages in the Machosh neighbourhood"},
+  "lead": {
+   "he": "קוטג׳ים בשכונת מכוש",
+   "en": "Cottages in the Machosh neighbourhood"
+  },
   "body": {
-   "he": ["פרויקט קוטג'ים של 9 מבני מגורים, 57 יח\"ד בסך הכול, במיקום נגיש עם חנייה מרווחת ונוף ירוק. הפרויקט אוכלס במלואו בשנת 2016."],
-   "en": ["A cottage development of nine buildings, 57 homes in total, with easy access, ample parking and green views. It was fully occupied in 2016."]
+   "he": [
+    "פרויקט קוטג׳ים של 9 מבני מגורים, 57 יח״ד בסך הכול, במיקום נגיש עם חנייה מרווחת ונוף ירוק. הפרויקט אוכלס במלואו בשנת 2016."
+   ],
+   "en": [
+    "A cottage development of nine buildings, 57 homes in total, with easy access, ample parking and green views. It was fully occupied in 2016."
+   ]
   },
   "facts": [
-   {"v": "57", "l": {"he": "יחידות דיור", "en": "Homes"}},
-   {"v": "9", "l": {"he": "מבנים", "en": "Buildings"}},
-   {"v": "2016", "l": {"he": "שנת אכלוס", "en": "Completed"}}
+   {
+    "v": "57",
+    "l": {
+     "he": "יחידות דיור",
+     "en": "Homes"
+    }
+   },
+   {
+    "v": "9",
+    "l": {
+     "he": "מבנים",
+     "en": "Buildings"
+    }
+   },
+   {
+    "v": "2016",
+    "l": {
+     "he": "שנת אכלוס",
+     "en": "Completed"
+    }
+   }
   ],
   "videos": []
  }
